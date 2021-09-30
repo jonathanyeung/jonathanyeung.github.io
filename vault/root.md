@@ -2,7 +2,7 @@
 id: tP0mD90vo9yAk1VHyoVSk
 title: Root
 desc: ''
-updated: 1632989726000
+updated: 1632992369397
 created: 1632988446599
 ---
 
@@ -12,4 +12,4 @@ Most of the notes will be from my classes, but in an effort to practice writing,
 
 The grammar may be bad and the sentences simple - bear with me; but that's part of the learning experience!
 
-谢谢！
+谢谢

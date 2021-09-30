@@ -11,8 +11,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1632990283508,
-      "created": 1632990283508,
+      "updated": 1632993062138,
+      "created": 1632993062138,
       "parent": null,
       "children": [],
       "body": "[Dendron](https://dendron.so/) (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page\n\n![](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png)",
@@ -29,51 +29,62 @@
       "links": [],
       "anchors": {},
       "fname": "root",
-      "updated": 1632989726000,
+      "updated": 1632992369397,
       "created": 1632988446599,
       "parent": null,
       "children": [
-        "6uHnZ8QC5UQsfxMAfv8ju"
+        "H9qDzxUwhOmeT4zlcaKbf",
+        "X9i6HckFgvkUQ0jaz25Gj",
+        "YXK3064rlQB4yQa8iOpYT"
       ],
       "data": {},
-      "contentHash": "066c5140a0156826aff9994b4ffc298c",
+      "contentHash": "a91cbc8f48318a36a5b272701bb27d7f",
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
-      "body": "\nIn this blog, I'll document my journey in trying to learn Chinese for the 2nd (3rd?) time.\n\nMost of the notes will be from my classes, but in an effort to practice writing, I will also try to write some notes in Chinese about my experiences here in Beijing.\n\nThe grammar may be bad and the sentences simple - bear with me; but that's part of the learning experience!\n\n谢谢！"
+      "body": "\nIn this blog, I'll document my journey in trying to learn Chinese for the 2nd (3rd?) time.\n\nMost of the notes will be from my classes, but in an effort to practice writing, I will also try to write some notes in Chinese about my experiences here in Beijing.\n\nThe grammar may be bad and the sentences simple - bear with me; but that's part of the learning experience!\n\n谢谢"
     },
-    "6uHnZ8QC5UQsfxMAfv8ju": {
-      "id": "6uHnZ8QC5UQsfxMAfv8ju",
-      "title": "Chinese",
+    "YXK3064rlQB4yQa8iOpYT": {
+      "id": "YXK3064rlQB4yQa8iOpYT",
+      "title": "Vocab",
       "vault": {
         "fsPath": "vault"
       },
       "type": "note",
       "desc": "",
       "links": [],
-      "anchors": {
-        "writing-pīnyīn-on-a-mac": {
-          "type": "header",
-          "value": "writing-pīnyīn-on-a-mac",
-          "line": 9,
-          "column": 0
-        }
-      },
-      "fname": "chinese",
-      "updated": 1631723790753,
-      "created": 1629195955492,
+      "anchors": {},
+      "fname": "vocab",
+      "updated": 1632993062101,
+      "created": 1632993062101,
       "parent": "tP0mD90vo9yAk1VHyoVSk",
       "children": [
-        "KbRh7lIehr24D9OFdOblC",
-        "X9i6HckFgvkUQ0jaz25Gj"
+        "KbRh7lIehr24D9OFdOblC"
       ],
+      "body": "",
       "data": {},
-      "contentHash": "1570c077f8570415cb504da8259b9c27",
-      "custom": {
-        "stub": false
+      "stub": false
+    },
+    "KbRh7lIehr24D9OFdOblC": {
+      "id": "KbRh7lIehr24D9OFdOblC",
+      "title": "Food",
+      "vault": {
+        "fsPath": "vault"
       },
-      "body": "\n## Writing pīnyīn on a Mac\n\nSwap to `ABC Extended` Input Keyboard (Ctrl+Space to cycle)\n\nType the keyboard shortcut, then the vowel\n\n| Keyboard | Tone  |\n| -------- | ----- |\n| ⌥ + a    | 1st ā |\n| ⌥ + e    | 2nd é |\n| ⌥ + v    | 3rd ǎ |\n| ⌥ + `    | 4th à |\n\nCtrl + Opt + Space : Change Input Keyboard\n\n"
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "vocab.food",
+      "updated": 1629197248679,
+      "created": 1629195955474,
+      "parent": "YXK3064rlQB4yQa8iOpYT",
+      "children": [],
+      "data": {},
+      "contentHash": "9f2179fc28b2241208f104c6b36799c1",
+      "custom": {},
+      "body": "\n| pīnyīn      | meaning                               |\n| ----------- | ------------------------------------- |\n| yú  quài(r) | big fish piece                        |\n| quài(r)     | big piece of something                |\n| xī hú lu    | cucumber                              |\n| jī dīng     | chicken with diced (cubed) vegetables |\n| xī hóng shì | tomato                                |\n| qín caì     | celery                                |\n|             |                                       |\n|             |                                       |\n|             |                                       |\n|             |                                       |\n"
     },
     "X9i6HckFgvkUQ0jaz25Gj": {
       "id": "X9i6HckFgvkUQ0jaz25Gj",
@@ -104,17 +115,17 @@
           "column": 0
         }
       },
-      "fname": "chinese.lessons",
+      "fname": "lessons",
       "updated": 1632274142946,
       "created": 1630837564983,
-      "parent": "6uHnZ8QC5UQsfxMAfv8ju",
+      "parent": "tP0mD90vo9yAk1VHyoVSk",
       "children": [
         "ZBY8LRw9QwooZsMY4Kq9T"
       ],
       "data": {},
-      "contentHash": "6398b935e5d4d9f6872cc7e36fc17070",
+      "contentHash": "fee9d28c0e93d8f41465a30f7107906c",
       "custom": {},
-      "body": "\n## Beijing \n\n- [That's Mandarain](https://www.thatsmandarin.com/1-on-1-courses/?gclid=EAIaIQobChMIppqj4M7n8gIV-Z1LBR0MiAJWEAAYASAAEgLbR_D_BwE)\n    - 192 RMB / class\n    - Dongzhimen Campus (about 7 km one way)[Map](https://www.google.com.sg/maps/dir/39.8974526,116.4700371/7+Xinzhong+St,+Dongcheng+Qu,+Beijing+Shi,+China,+100006/@39.9147514,116.4484899,14z/data=!4m9!4m8!1m0!1m5!1m1!1s0x35f1acbf42b95cef:0xf31a0c6f564ac14b!2m2!1d116.438497!2d39.938764!3e2)\n- [Live the Language](https://ltl-beijing.com/chinese-tutor-beijing/)\n    - 177 RMB / class (less if you buy more upfront)\n    - Jianguo Rd. 88, Xiandai SOHO, Building B, 504\n- [Beijing University Tutor](https://beijing.universitytutor.com/beijing_mandarin-chinese-tutoring)\n\n\n## Live the Language\n\nPotential Schedule 2 Times a Week \nMonday? Thursday? 1.5 hours each\n\nQuestions: Assessment?\n\nGoals:\n1. Being able to understand daily conversation (not news level)\n2. Being able to do basic engagements - Restaurant; Didi; \n3. Being able to engage in a conversation with friends\n4. Basic Reading - Food Menus / WeChat / Alipay / Meituan / TaoBao\n\nNon Goals:\n1. Business\n2. Learning to Write\n\n### 08.08.2021 \n\nChat with Maria - estimates I'm at HKSA 3-4? Says I should be able to get to 4-5.  Had a 5 minute conversation in Mandarin woohoo"
+      "body": "\n## Beijing \n\n- [That's Mandarain](https://www.thatsmandarin.com/1-on-1-courses/?gclid=EAIaIQobChMIppqj4M7n8gIV-Z1LBR0MiAJWEAAYASAAEgLbR_D_BwE)\n    - 192 RMB / class\n    - Dongzhimen Campus (about 7 km one way)[Map](https://www.google.com.sg/maps/dir/39.8974526,116.4700371/7+Xinzhong+St,+Dongcheng+Qu,+Beijing+Shi,+China,+100006/@39.9147514,116.4484899,14z/data=!4m9!4m8!1m0!1m5!1m1!1s0x35f1acbf42b95cef:0xf31a0c6f564ac14b!2m2!1d116.438497!2d39.938764!3e2)\n- [Live the Language](https://ltl-beijing.com/chinese-tutor-beijing/)\n    - 177 RMB / class (less if you buy more upfront)\n    - Jianguo Rd. 88, Xiandai SOHO, Building B, 504\n- [Beijing University Tutor](https://beijing.universitytutor.com/beijing_mandarin-chinese-tutoring)\n\n\n## Live the Language\n\nPotential Schedule 2 Times a Week \nMonday? Thursday? 1.5 hours each\n\nQuestions: Assessment?\n\nGoals:\n1. Being able to understand daily conversation (not news level)\n2. Being able to do basic engagements - Restaurant; Didi; \n3. Being able to engage in a conversation with friends\n4. Basic Reading - Food Menus / WeChat / Alipay / Meituan / TaoBao\n\nNon Goals:\n1. Business\n2. Learning to Write\n\n### 08.08.2021 \n\nChat with Maria - estimates I'm at HKSA 3-4? Says I should be able to get to 4-5.  Had a 5 minute conversation in Mandarin woohoo\n"
     },
     "ZBY8LRw9QwooZsMY4Kq9T": {
       "id": "ZBY8LRw9QwooZsMY4Kq9T",
@@ -126,7 +137,7 @@
       "desc": "",
       "links": [],
       "anchors": {},
-      "fname": "chinese.lessons.2021",
+      "fname": "lessons.2021",
       "updated": 1632989927631,
       "created": 1632989927631,
       "parent": "X9i6HckFgvkUQ0jaz25Gj",
@@ -151,7 +162,7 @@
       "desc": "",
       "links": [],
       "anchors": {},
-      "fname": "chinese.lessons.2021.09",
+      "fname": "lessons.2021.09",
       "updated": 1632989927632,
       "created": 1632989927632,
       "parent": "ZBY8LRw9QwooZsMY4Kq9T",
@@ -172,7 +183,7 @@
     },
     "cFNMkvUUDb4YIvJhbej4H": {
       "id": "cFNMkvUUDb4YIvJhbej4H",
-      "title": "30",
+      "title": "2021-09-30",
       "vault": {
         "fsPath": "vault"
       },
@@ -223,13 +234,13 @@
           "column": 0
         }
       },
-      "fname": "chinese.lessons.2021.09.30",
+      "fname": "lessons.2021.09.30",
       "updated": 1632973019921,
       "created": 1632964496159,
       "parent": "jIikjxR81Q6WhnUDAf45q",
       "children": [],
       "data": {},
-      "contentHash": "bc81598a24245289ed055853b8ab0867",
+      "contentHash": "4a1761ebdac43c0b5ff1b67a944b8e21",
       "custom": {},
       "body": "\n## Class Notes\n\n### Continued notes of le\n\nle ... jiu\n\nafter doing something, then ...\n\n了 。。。 就\n\nJerry 5 dian zuo le fan, wu dian shi fen jiu chi fan  - very fast after making dinner he eats it, put the jiu after le to indicate something fast, immediately after (5-10 minutes)\n\nxia le ke jiu hui jia\n\nta mei tian xia le ke jiu hui jia\n\n### 就\n\nle ... jiu ...\ns + v1 + le + (object 1) + jiu  + v2 + (o2)\n\nto put it in the future:\ns + xiang + v / s + xiwang + v\n\n### te bie \n\n- bei jing de dong itan te bie leng\n- wo jin tian te bie xiang chi jian bing \n- zhe ge ren hen te bie (here it means different)\n\n\nwang luo yong yu - wang luo is like internet; so internet language - \n\nexample is tu ran - literally means suddenly; can also be used in 'internet speak' to mean ugly - tu(1) ran(2) 突然\n\n### guo with le\n\nwo yi jing chi guo jian bing le -> le modifies chi guo jian bing | I've eaten jian bing in the past \nwo yi jing chi jian bing le\n\ns + yi jing + v + o + le\ns + yi jing + v + guo + o + le\n\n\nxiu1 xi1 - break\nxue xi - study  \n\n### he vs ye\n\n- wo shi zhong guo ren, he wo mei mei shi zhong guo ren\n- wo \n- \nwo hui shuo ying yu, ye hui shuo zhong yu (ye follows a comma)\nwo hui shuo ying yu he zhong yu (no comma, use he)\n\nn. + he + n. \nbut cannot do v. + he + v.\n\n\n\n\n## Vocabulary\n\nHSK 1 - 150\nHSK 2 - 150 new\nHSK 3 - 600 words total\nHSK 4 - 1200 words total \nHSK 5 - 1300 new words\nHSK 6 - 2500 new words\n\nyu fa- grammar; ends at HSK 3\n\nbig step up from 3 -> 4 \n\n\nguang - go shopping \n\n"
     },
@@ -322,15 +333,15 @@
           "column": 0
         }
       },
-      "fname": "chinese.lessons.2021.09.27",
+      "fname": "lessons.2021.09.27",
       "updated": 1632968092260,
       "created": 1632580504879,
       "parent": "jIikjxR81Q6WhnUDAf45q",
       "children": [],
       "data": {},
-      "contentHash": "00c75cac1eb5bb9abc128ff392eca3ef",
+      "contentHash": "7297772e8dac84d92ec45d6a9ce235e3",
       "custom": {},
-      "body": "\n## Class Notes\n\nle - represents action finished,and can be in the future. tomorrow after dinner, we go...\n\nwo chi fan le - le indicates chi has finished\nwo xue han yu le - le indicates xue has finished\n\nseveral places you can put the le: \n1. wo zuo tian xue han yu le -> sub + verb + object + le\n1. wo zuo tian xue le san ge xiao shi han yu -> s + v + le + \"time\" + o. le shouldn't go at the end when you have a time / how many / how much \n1. another example: wo zuo tian xue le han yu, wo hen lei  -> s + v + le + o. + explanation\n\n#### yi ge le vs liang ge le\n\nQ: ni xue le duo chang shi jian han yu?\n\nA:\n1. wo xue le san nian han yu, han yu bu nan (xian zai i stopped xue)\n\n    我学了三年汉语，汉语不难。\n    \n    Only a single 了 is used here, which implies that I have stopped the action of 学\n\n1. wo xue le san nian han yu le, wo xian ji xu (continue) xue \n\n    我学了三年汉语了，我选继续学。\n\n    We use two 了 here because the action continues (I continue to study). The first \n\n^ In that example, first le modifies 'xue'.  Second le modifies the entire phrase 'xue le san nian han yu'\n\n'guo' - have you done it before in the past? \n\n\n\n### Measure Words (liang ci)\n- ge (generic)\n- jiàn (yifu)\n- tiáo (kuzi) long object, pants, ties, belts; can also say for fish, snakes, and even dogs?\n- shuāng (xie) - xie, shoes; wa zi, socks; kuai zi - a pair of something with a left and right | the character is you doubled; you means hand (left and right hand)\n\nbing - sick\ncan also say sheng + bing + le (getting sick)\n\nta qing bing jia le - ask for sick leave\nbǎo xiǎn - insurance\nyī liáo bǎo xiǎn - medical insurance\n\n### Radical - shǔi (san dian shui 三点水)\n\nRadical implies the involvement of water\n\n#### Breakdown of 洗 (xǐ), to wash\n\n- 洗 - left side is shǔi radical; right side is xian 先 (xian sheng), which is the pronunciation. Pronunciation is more often on the right side, but not necessarily\n- breakdown of xian 先 => top is niu like cow 牛, er 儿 on bottom meaning son\n\n### guàng \n\n逛 - breakdown of characters - first radical is shi; second radical is quan (dog, work dog not puppy), 王 wang, story is that a dog walks around in a relaxed manner. \n\n### chou shi jian 抽\n\nfind the time, but very busy \n\nseveral other uses of chou\n- chou yan - smoking\n- ta chou wo - he slapped me!\n- chou yi zhang (playing card) (picking a playing card out of the deck)\n\n\ntodo: lookup what the canto word is. \n\nyou de you de vs you diar you diar\n\n## Vocabulary\n\n--- \n\n## Prepared Passage\n\n### English\n\nWhile living in Hong Kong, we enjoyed going to shopping malls - there were a lot of large ones nearby. They provided good places to walk around, had excellent restaurants, and had interesting shops to browse. Furthermore, to try to attract more customers, a lot of malls started to have interesting promotions and offer things beyond shopping such as seasonal events and ornate art installations.\n\nI have found the malls in Bejing to be quite good as well. In particular, one mall in Shuang Jing that we live close to is SKP. We recently went in there and find the design and artwork to be very interesting, even more interesting than the shops!\n\n### Pīn Yīn\n\nZài Xiāng Gāng, wǒmen xǐhuān qù shāng cháng. Wǒmen de jīa fùjìn yǒu hěn duō dà shāngchǎng. Shāng chǎng shì fāngbìan hé hǎo wánr - kěyǐ zaì hǎo de fǎn guān chī fàn, hé zaì shāngdiàn mǎi dōngxī. Lìngwài, wèile zhǎo duō gùkè, shāng chǎng gōng xī jīng cháng dǎzhé, yǒushí huì yǒu yìshù zhuāngzhì. \n\nWǒ juédé Beǐjīng de shāng cháng yě hěn hǎo. Wǒmen gāng cái qù yī ge shāng chǎng zaì wǒmen de jiā fù jin jiāo `SKP`. Yìshù zhuāngzhì zaì lǐmiàn hěn yǒu yìsi - yìshù zhuāngzhì bǐ shāngdiàn, wǒ juédé yìshù zhuāng zhì gēng yǒu yìsi!\n\n### Chinese Characters\n\n在香港，我们喜欢去商场。我们的家附近有很多大商场。商场是方便和好玩儿 - 可以在好的饭馆吃饭，和在商店买东西。另外，为了找多顾客，商场公司经常打折，有时会有艺术装置。\n\n我觉得北京的商场也很好。我们刚才去一个商场在我们的家附近叫‘SKP’。艺术装置在里面很有意思 - 艺术装置比商店，我觉得艺术装置更有意思！\n\n### Vocabulary to Learn from Passage\n\nyìshù zhuāngzhì ｜ 艺术装置 - art installation\n\nEllie's correction - instead of saying yishu zhuangzhi, can say zhan tai huo zhe cheng lie \n\nzhan3 tai2 - a stage\nchen2 lie4 - put everything on display \nshe4 ji4 - \n\nyi shu feng1 ge2 -  "
+      "body": "\n## Class Notes\n\nle - represents action finished,and can be in the future. tomorrow after dinner, we go...\n\nwo chi fan le - le indicates chi has finished\nwo xue han yu le - le indicates xue has finished\n\nseveral places you can put the le: \n1. wo zuo tian xue han yu le -> sub + verb + object + le\n1. wo zuo tian xue le san ge xiao shi han yu -> s + v + le + \"time\" + o. le shouldn't go at the end when you have a time / how many / how much \n1. another example: wo zuo tian xue le han yu, wo hen lei  -> s + v + le + o. + explanation\n\n#### yi ge le vs liang ge le\n\nQ: ni xue le duo chang shi jian han yu?\n\nA:\n1. wo xue le san nian han yu, han yu bu nan (xian zai i stopped xue)\n\n    我学了三年汉语，汉语不难。\n    \n    Only a single 了 is used here, which implies that I have stopped the action of 学\n\n1. wo xue le san nian han yu le, wo xian ji xu (continue) xue \n\n    我学了三年汉语了，我选继续学。\n\n    We use two 了 here because the action continues (I continue to study). The first \n\n^ In that example, first le modifies 'xue'.  Second le modifies the entire phrase 'xue le san nian han yu'\n\n'guo' - have you done it before in the past? \n\n\n\n### Measure Words (liang ci)\n- ge (generic)\n- jiàn (yifu)\n- tiáo (kuzi) long object, pants, ties, belts; can also say for fish, snakes, and even dogs?\n- shuāng (xie) - xie, shoes; wa zi, socks; kuai zi - a pair of something with a left and right | the character is you doubled; you means hand (left and right hand)\n\nbing - sick\ncan also say sheng + bing + le (getting sick)\n\nta qing bing jia le - ask for sick leave\nbǎo xiǎn - insurance\nyī liáo bǎo xiǎn - medical insurance\n\n### Radical - shǔi (san dian shui 三点水)\n\nRadical implies the involvement of water\n\n#### Breakdown of 洗 (xǐ), to wash\n\n- 洗 - left side is shǔi radical; right side is xian 先 (xian sheng), which is the pronunciation. Pronunciation is more often on the right side, but not necessarily\n- breakdown of xian 先 => top is niu like cow 牛, er 儿 on bottom meaning son\n\n### guàng \n\n逛 - breakdown of characters - first radical is shi; second radical is quan (dog, work dog not puppy), 王 wang, story is that a dog walks around in a relaxed manner. \n\n### chou shi jian 抽\n\nfind the time, but very busy \n\nseveral other uses of chou\n- chou yan - smoking\n- ta chou wo - he slapped me!\n- chou yi zhang (playing card) (picking a playing card out of the deck)\n\n\ntodo: lookup what the canto word is. \n\nyou de you de vs you diar you diar\n\n## Vocabulary\n\n--- \n\n## Prepared Passage\n\n### English\n\nWhile living in Hong Kong, we enjoyed going to shopping malls - there were a lot of large ones nearby. They provided good places to walk around, had excellent restaurants, and had interesting shops to browse. Furthermore, to try to attract more customers, a lot of malls started to have interesting promotions and offer things beyond shopping such as seasonal events and ornate art installations.\n\nI have found the malls in Bejing to be quite good as well. In particular, one mall in Shuang Jing that we live close to is SKP. We recently went in there and find the design and artwork to be very interesting, even more interesting than the shops!\n\n### Pīn Yīn\n\nZài Xiāng Gāng, wǒmen xǐhuān qù shāng cháng. Wǒmen de jīa fùjìn yǒu hěn duō dà shāngchǎng. Shāng chǎng shì fāngbìan hé hǎo wánr - kěyǐ zaì hǎo de fǎn guān chī fàn, hé zaì shāngdiàn mǎi dōngxī. Lìngwài, wèile zhǎo duō gùkè, shāng chǎng gōng xī jīng cháng dǎzhé, yǒushí huì yǒu yìshù zhuāngzhì. \n\nWǒ juédé Beǐjīng de shāng cháng yě hěn hǎo. Wǒmen gāng cái qù yī ge shāng chǎng zaì wǒmen de jiā fù jin jiāo `SKP`. Yìshù zhuāngzhì zaì lǐmiàn hěn yǒu yìsi - yìshù zhuāngzhì bǐ shāngdiàn, wǒ juédé yìshù zhuāng zhì gēng yǒu yìsi!\n\n### Chinese Characters\n\n在香港，我们喜欢去商场。我们的家附近有很多大商场。商场是方便和好玩儿 - 可以在好的饭馆吃饭，和在商店买东西。另外，为了找多顾客，商场公司经常打折，有时会有艺术装置。\n\n我觉得北京的商场也很好。我们刚才去一个商场在我们的家附近叫‘SKP’。艺术装置在里面很有意思 - 艺术装置比商店，我觉得艺术装置更有意思！\n\n### Vocabulary to Learn from Passage\n\nyìshù zhuāngzhì ｜ 艺术装置 - art installation\n\nEllie's correction - instead of saying yishu zhuangzhi, can say zhan tai huo zhe cheng lie \n\nzhan3 tai2 - a stage\nchen2 lie4 - put everything on display \nshe4 ji4 - \n\nyi shu feng1 ge2 -  \n"
     },
     "AsBIKJdqsowZ8rqLeiDkq": {
       "id": "AsBIKJdqsowZ8rqLeiDkq",
@@ -391,15 +402,15 @@
           "column": 0
         }
       },
-      "fname": "chinese.lessons.2021.09.23",
+      "fname": "lessons.2021.09.23",
       "updated": 1632651395237,
       "created": 1632362320211,
       "parent": "jIikjxR81Q6WhnUDAf45q",
       "children": [],
       "data": {},
-      "contentHash": "df58a00bd76135d7243e6c1bb6dccee4",
+      "contentHash": "9aee376b694af2b233ee56663d6c4aa8",
       "custom": {},
-      "body": "\n\n\n## General Notes\n\n### Different Ways to Combine Verbs\n\nSeveral different ways to say that 'we had a quick chat':\n1. wǒmen liáo yī liáo -> verb + yī + verb (present)\n1. liáo liáo -> verb + verb\n1. liáo le liáo -> verb le verb (this one means it has already happened)\n1. wǒmen liáo le yi huir\n\nyi hui(r) - means a short time \n\n### gāng gāng (刚刚) vs gāng cái (刚才)\n\n#### Example 句子\n\n- gāng cái wǒmen liáo le liáo zhōng gǔo wénhuà. \n- wǒmen gang gang liáo le zhong guo wen hua, hen you yisi.\n\n**gāng gāng** - the sentence cannot be finished, there must be an additional statement to follow (here, it's hen you yisi).\n\nanother difference is that gang cai can be a longer interval - 20 mins or greater; whereas gang gang can be one to two minutes \n\n### kan ba \n\nkan ba - similar to ke neng, but lower probability (ke neng maybe 30%, where as kan ba is like 2%)\n\ndifferent words indicate different levels of likelihood, example Ellie gave is how can she reply to a student asking \"can I pass the HSK exam?\"\n\n- keyi (definitely)\n- yīng gai keyi (should be able to)\n- kěnéng (possibly)\n- kan ba (highly unlikely)\n\ndifferent words for travel\n\n- lǔ xíng - (xing means longer travel, 1 month or more? not strict)\n- lǔ yóu (you literally means swim) this may be shorter, 1-2 weeks\nvocab\nhui da - answer, as in answer a question.  if you ask \nda an - the answer.  hui da ni de da an \n\n### shǒu radical (手)\n\nshou radical - this radical indicates the word involves an action where you  use your hand to do something. It always has an object noun. use zhao + something\n\n#### Example Words\n\n- **pai 排** （wait in line)\n- **zhǎo 找** (find). The right part of the word is gē (戈), which means weapon. Ellie mentioned a story that in ancient times, zhao can mean to seek out someone to attack them or for revenge.\n- **cā 擦** （erase)\n- **tiao 挑** （pick）\n\n\n## Vocabulary\n\njiao - you use both hands; turn in homework. pay a bill. \n\n- jiao zuo ye \n- jiao peng you. means to make new friends "
+      "body": "\n\n\n## General Notes\n\n### Different Ways to Combine Verbs\n\nSeveral different ways to say that 'we had a quick chat':\n1. wǒmen liáo yī liáo -> verb + yī + verb (present)\n1. liáo liáo -> verb + verb\n1. liáo le liáo -> verb le verb (this one means it has already happened)\n1. wǒmen liáo le yi huir\n\nyi hui(r) - means a short time \n\n### gāng gāng (刚刚) vs gāng cái (刚才)\n\n#### Example 句子\n\n- gāng cái wǒmen liáo le liáo zhōng gǔo wénhuà. \n- wǒmen gang gang liáo le zhong guo wen hua, hen you yisi.\n\n**gāng gāng** - the sentence cannot be finished, there must be an additional statement to follow (here, it's hen you yisi).\n\nanother difference is that gang cai can be a longer interval - 20 mins or greater; whereas gang gang can be one to two minutes \n\n### kan ba \n\nkan ba - similar to ke neng, but lower probability (ke neng maybe 30%, where as kan ba is like 2%)\n\ndifferent words indicate different levels of likelihood, example Ellie gave is how can she reply to a student asking \"can I pass the HSK exam?\"\n\n- keyi (definitely)\n- yīng gai keyi (should be able to)\n- kěnéng (possibly)\n- kan ba (highly unlikely)\n\ndifferent words for travel\n\n- lǔ xíng - (xing means longer travel, 1 month or more? not strict)\n- lǔ yóu (you literally means swim) this may be shorter, 1-2 weeks\nvocab\nhui da - answer, as in answer a question.  if you ask \nda an - the answer.  hui da ni de da an \n\n### shǒu radical (手)\n\nshou radical - this radical indicates the word involves an action where you  use your hand to do something. It always has an object noun. use zhao + something\n\n#### Example Words\n\n- **pai 排** （wait in line)\n- **zhǎo 找** (find). The right part of the word is gē (戈), which means weapon. Ellie mentioned a story that in ancient times, zhao can mean to seek out someone to attack them or for revenge.\n- **cā 擦** （erase)\n- **tiao 挑** （pick）\n\n\n## Vocabulary\n\njiao - you use both hands; turn in homework. pay a bill. \n\n- jiao zuo ye \n- jiao peng you. means to make new friends \n"
     },
     "yW2dK5GZuFbzMGlFbSTLJ": {
       "id": "yW2dK5GZuFbzMGlFbSTLJ",
@@ -490,7 +501,7 @@
           "column": 0
         }
       },
-      "fname": "chinese.lessons.2021.09.16",
+      "fname": "lessons.2021.09.16",
       "updated": 1632362409661,
       "created": 1631720962922,
       "parent": "jIikjxR81Q6WhnUDAf45q",
@@ -541,7 +552,7 @@
           "column": 0
         }
       },
-      "fname": "chinese.lessons.2021.09.13",
+      "fname": "lessons.2021.09.13",
       "updated": 1632651471458,
       "created": 1631501882979,
       "parent": "jIikjxR81Q6WhnUDAf45q",
@@ -551,25 +562,38 @@
       "custom": {},
       "body": "\n## Lesson Notes\n\n### Difference between bú gǔo, ke shi, dan shi\n\nThese words indicate differences in strength of the meaning. bu guo - 30%, ke shi 50%, dan shi 100%.  Example from Ellie - turning down someone for a date.  Dan shi is a definite no. \n\n### Object of zhǎo\n\nthe object of zhao must be something that is visible. zhǎo a person, zhǎo a dī fang.  But I cannot zhǎo a \"zhōng wen ke\"\n\n## Additional Vocabulary\n\n| Chinese  | English  |\n| -------- | -------- |\n| xiǎng    | think    |\n| cāi      | to guess |\n| gōng kè  | homework |\n| xúe xiào | school   |\n\n## Thoughts\n\nI was very surprised that I could make it through a 90 minute class that was spoken almost entirely in Mandarin. I think it'll be a good thing that my teacher Ellie actually cannot speak that much English.  The one thing that I need to be conscious of is that I make sure to ask questions if I don't fully understand something instead of just partially understanding. This is off to a good start. \n\nHowever, I need to remember that the onus is still all on me to learn. I need to do daily homework and practice; I cannot just rely on the lessons. \n\n\n"
     },
-    "KbRh7lIehr24D9OFdOblC": {
-      "id": "KbRh7lIehr24D9OFdOblC",
-      "title": "Food",
+    "H9qDzxUwhOmeT4zlcaKbf": {
+      "id": "H9qDzxUwhOmeT4zlcaKbf",
+      "title": "Dendron",
       "vault": {
         "fsPath": "vault"
       },
       "type": "note",
-      "desc": "",
+      "desc": "Chinese in Dendron",
       "links": [],
-      "anchors": {},
-      "fname": "chinese.food",
-      "updated": 1629197248679,
-      "created": 1629195955474,
-      "parent": "6uHnZ8QC5UQsfxMAfv8ju",
+      "anchors": {
+        "writing-pīnyīn-on-a-mac": {
+          "type": "header",
+          "value": "writing-pīnyīn-on-a-mac",
+          "line": 8,
+          "column": 0
+        },
+        "additional-tools": {
+          "type": "header",
+          "value": "additional-tools",
+          "line": 21,
+          "column": 0
+        }
+      },
+      "fname": "dendron",
+      "updated": 1632992574634,
+      "created": 1632992377370,
+      "parent": "tP0mD90vo9yAk1VHyoVSk",
       "children": [],
       "data": {},
-      "contentHash": "006785a6b8b7efe70ab1361935271786",
+      "contentHash": "b4b0aa25ada59afd20d5f42a155757dd",
       "custom": {},
-      "body": "\n| pīnyīn      | meaning                               |\n| ----------- | ------------------------------------- |\n| yú  quài(r) | big fish piece                        |\n| quài(r)     | big piece of something                |\n| xī hú lu    | cucumber                              |\n| jī dīng     | chicken with diced (cubed) vegetables |\n| xī hóng shì | tomato                                |\n| qín caì     | celery                                |\n|             |                                       |\n|             |                                       |\n|             |                                       |\n|             |                                       |"
+      "body": "\n## Writing pīnyīn on a Mac\n\nSwap to `ABC Extended` Input Keyboard (Ctrl+Opt+Space to change input keyboard)\n\nType the keyboard shortcut, then the vowel\n\n| Keyboard | Tone  |\n| -------- | ----- |\n| ⌥ + a    | 1st ā |\n| ⌥ + e    | 2nd é |\n| ⌥ + v    | 3rd ǎ |\n| ⌥ + `    | 4th à |\n\n## Additional Tools\n- [Google Translate](https://translate.google.com/)\n- [Pleco](https://www.pleco.com)"
     },
     "changelog": {
       "id": "changelog",
@@ -582,8 +606,8 @@
       "links": [],
       "anchors": {},
       "fname": "root.changelog",
-      "updated": 1632990283508,
-      "created": 1632990283508,
+      "updated": 1632993062138,
+      "created": 1632993062138,
       "parent": null,
       "children": [],
       "body": "",
@@ -602,19 +626,21 @@
       "links": [],
       "anchors": {},
       "fname": "root",
-      "updated": 1632989726000,
+      "updated": 1632992369397,
       "created": 1632988446599,
       "parent": null,
       "children": [
-        "6uHnZ8QC5UQsfxMAfv8ju"
+        "H9qDzxUwhOmeT4zlcaKbf",
+        "X9i6HckFgvkUQ0jaz25Gj",
+        "YXK3064rlQB4yQa8iOpYT"
       ],
       "data": {},
-      "contentHash": "066c5140a0156826aff9994b4ffc298c",
+      "contentHash": "a91cbc8f48318a36a5b272701bb27d7f",
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
-      "body": "\nIn this blog, I'll document my journey in trying to learn Chinese for the 2nd (3rd?) time.\n\nMost of the notes will be from my classes, but in an effort to practice writing, I will also try to write some notes in Chinese about my experiences here in Beijing.\n\nThe grammar may be bad and the sentences simple - bear with me; but that's part of the learning experience!\n\n谢谢！"
+      "body": "\nIn this blog, I'll document my journey in trying to learn Chinese for the 2nd (3rd?) time.\n\nMost of the notes will be from my classes, but in an effort to practice writing, I will also try to write some notes in Chinese about my experiences here in Beijing.\n\nThe grammar may be bad and the sentences simple - bear with me; but that's part of the learning experience!\n\n谢谢"
     }
   ],
   "noteIndex": {
@@ -628,19 +654,21 @@
     "links": [],
     "anchors": {},
     "fname": "root",
-    "updated": 1632989726000,
+    "updated": 1632992369397,
     "created": 1632988446599,
     "parent": null,
     "children": [
-      "6uHnZ8QC5UQsfxMAfv8ju"
+      "H9qDzxUwhOmeT4zlcaKbf",
+      "X9i6HckFgvkUQ0jaz25Gj",
+      "YXK3064rlQB4yQa8iOpYT"
     ],
     "data": {},
-    "contentHash": "066c5140a0156826aff9994b4ffc298c",
+    "contentHash": "a91cbc8f48318a36a5b272701bb27d7f",
     "custom": {
       "nav_order": 0,
       "permalink": "/"
     },
-    "body": "\nIn this blog, I'll document my journey in trying to learn Chinese for the 2nd (3rd?) time.\n\nMost of the notes will be from my classes, but in an effort to practice writing, I will also try to write some notes in Chinese about my experiences here in Beijing.\n\nThe grammar may be bad and the sentences simple - bear with me; but that's part of the learning experience!\n\n谢谢！"
+    "body": "\nIn this blog, I'll document my journey in trying to learn Chinese for the 2nd (3rd?) time.\n\nMost of the notes will be from my classes, but in an effort to practice writing, I will also try to write some notes in Chinese about my experiences here in Beijing.\n\nThe grammar may be bad and the sentences simple - bear with me; but that's part of the learning experience!\n\n谢谢"
   },
   "vaults": [
     {
