@@ -34,12 +34,13 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: Dendron
-    description: Personal knowledge space
+    title: Jonathan Yeung's Personal Blog
+    description: My Journal for Learning Mandarin
     siteLastModified: true
     gh_edit_branch: main
     duplicateNoteBehavior:
         action: useVault
         payload:
             - vault
+    siteUrl: https://jonathanyeung.github.io/
 initializeRemoteVaults: true
