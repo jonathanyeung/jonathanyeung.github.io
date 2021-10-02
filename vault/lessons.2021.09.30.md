@@ -2,84 +2,60 @@
 id: cFNMkvUUDb4YIvJhbej4H
 title: '2021-09-30'
 desc: ''
-updated: 1632973019921
+updated: 1633192805792
 created: 1632964496159
 ---
 
 ## Class Notes
 
-### Continued notes of le
+### le ... jiù ｜ 了 ... 就
 
-le ... jiu
+After doing something, then ...
 
-after doing something, then ...
+subject + verb1 + 了 + object1 + 就  + verb2 + object2
 
-了 。。。 就
+#### Examples
 
-Jerry 5 dian zuo le fan, wu dian shi fen jiu chi fan  - very fast after making dinner he eats it, put the jiu after le to indicate something fast, immediately after (5-10 minutes)
+- Jerry 五点做**了**饭，五点十分**就**吃饭 (Jerry wǔ diǎn zuòle fàn, wǔ diǎn shí fèn jiù chīfàn)
 
-xia le ke jiu hui jia
+    > Having the jiù indicates the subsequent action happened immediately after (5-10 minutes). Immediately after cooking dinner, he ate it.
 
-ta mei tian xia le ke jiu hui jia
+- 下了课就回家 （Xiàle kè jiù huí jiā）
+- 他每天下了课就回家 （Tā měitiān xiàle kè jiù huí jiā）
 
-### 就
+### guò with le | 过 + 了
 
-le ... jiu ...
-s + v1 + le + (object 1) + jiu  + v2 + (o2)
+1. 我已经吃过煎饼了  Wǒ yǐjīng chīguò jiānbing le
+    > le modifies 'chīguò jiānbing'. Meaning: I've eaten jiānbing in the past 
 
-to put it in the future:
-s + xiang + v / s + xiwang + v
+1. 我已经吃煎饼了 Wǒ yǐjīng chī jiānbing le
+    > No guò. Meaning: I've eaten pancakes (today).
 
-### te bie 
+### hé 和 vs yě 也
 
-- bei jing de dong itan te bie leng
-- wo jin tian te bie xiang chi jian bing 
-- zhe ge ren hen te bie (here it means different)
+noun + hé + noun, but it is incorrect to have verb + hé + verb
 
+#### Examples
 
-wang luo yong yu - wang luo is like internet; so internet language - 
-
-example is tu ran - literally means suddenly; can also be used in 'internet speak' to mean ugly - tu(1) ran(2) 突然
-
-### guo with le
-
-wo yi jing chi guo jian bing le -> le modifies chi guo jian bing | I've eaten jian bing in the past 
-wo yi jing chi jian bing le
-
-s + yi jing + v + o + le
-s + yi jing + v + guo + o + le
-
-
-xiu1 xi1 - break
-xue xi - study  
-
-### he vs ye
-
-- wo shi zhong guo ren, he wo mei mei shi zhong guo ren
-- wo 
-- 
-wo hui shuo ying yu, ye hui shuo zhong yu (ye follows a comma)
-wo hui shuo ying yu he zhong yu (no comma, use he)
-
-n. + he + n. 
-but cannot do v. + he + v.
-
-
-
+- Wǒ huì shuō yīngyǔ, **yě** huì shuō zhōng yǔ (in between verbs following a comma, so use **yě**)
+- Wǒ huì shuō yīngyǔ **hé** zhōng yǔ (no comma, in between nouns so use **hé**)
 
 ## Vocabulary
 
-HSK 1 - 150
-HSK 2 - 150 new
-HSK 3 - 600 words total
-HSK 4 - 1200 words total 
-HSK 5 - 1300 new words
-HSK 6 - 2500 new words
+#### tèbié 特别
 
-yu fa- grammar; ends at HSK 3
+Several Uses:
+- Běijīng de dōngtiān tèbié lěng - meaning _very_ cold
+- Wǒ jīntiān tèbié xiǎng chī jiānbing - meaning _especially_ want to eat
+- Zhège rén hěn tèbié - meaning different, can be both positive or negative
 
-big step up from 3 -> 4 
+#### Wǎngluò yòngyǔ 网络用语
+Literally 'network language'  - means language of the internet. (i.e. 'LOL' in english)
 
+One example is túrán 突然 - literally means suddenly; can also be used in 'internet speak' to call someone ugly
 
-guang - go shopping 
+#### More Words
 
+- xiūxí 休息 - break
+- xuéxí 学习 - study
+- guàng 逛 - stroll (like walking around a shopping mall) 

@@ -2,68 +2,54 @@
 id: dmvDY3XWYTitDo92VyiS2
 title: '2021-09-27'
 desc: ''
-updated: 1632968092260
+updated: 1633190236710
 created: 1632580504879
 ---
 
 ## Class Notes
 
-le - represents action finished,and can be in the future. tomorrow after dinner, we go...
+### le 了
 
-wo chi fan le - le indicates chi has finished
-wo xue han yu le - le indicates xue has finished
+le - represents that an action is finished. It can also be in the future: tomorrow after dinner, we go...
 
-several places you can put the le: 
-1. wo zuo tian xue han yu le -> sub + verb + object + le
-1. wo zuo tian xue le san ge xiao shi han yu -> s + v + le + "time" + o. le shouldn't go at the end when you have a time / how many / how much 
-1. another example: wo zuo tian xue le han yu, wo hen lei  -> s + v + le + o. + explanation
+- 我吃饭了 - le indicates chi has finished
+- 我学韩语了 - le indicates xue has finished
 
-#### yi ge le vs liang ge le
+#### 了 can be in several places
 
-Q: ni xue le duo chang shi jian han yu?
+1. 我昨天学汉语**了** | subject + verb + object + 了
+1. 我昨天学**了**三个小时汉语 ｜ subject + verb + 了 + "time" + obj. 了 shouldn't  be at the end of the sentence when you have a word for time / how many / how much .
+1. 我昨天学了汉语，我很累 (lèi, tired) | subject + verb + 了 + obj. + explanation
+
+#### One 了 versus two 了 in a sentence
+
+Q: 你学了多长时间汉语？ (Nǐ xuéle duō cháng shíjiān hànyǔ?)
 
 A:
-1. wo xue le san nian han yu, han yu bu nan (xian zai i stopped xue)
-
-    我学了三年汉语，汉语不难。
+1. 我学了三年汉语，汉语不难。 (Wǒ xuéle sān nián hànyǔ, hànyǔ bù nán)
     
-    Only a single 了 is used here, which implies that I have stopped the action of 学
+   > Only a single 了 is used here, which implies that I have stopped the action of 学
 
-1. wo xue le san nian han yu le, wo xian ji xu (continue) xue 
+1. 我学了三年汉语了，我选继续学。 (Wǒ xuéle sān nián hànyǔle, wǒ xuǎn jìxù xué) _jìxù means continue_
 
-    我学了三年汉语了，我选继续学。
+    > We use two 了 here because the action continues (I continue to study). In this example, the first 了 modifies '学'. The second 了 modifies the entire phrase '学了三年汉语'
 
-    We use two 了 here because the action continues (I continue to study). The first 
+### Some Measure Words (called liàngcí, or quantifiers)
+- **ge** (generic)
+- **jiàn** (yifu)
+- **tiáo** (kuzi) long object, pants, ties, belts; can also say for fish, snakes, and even dogs?
+- **shuāng** (xie) - xie, shoes; wa zi, socks; kuai zi - a pair of something with a left and right | the character is you doubled; you means hand (left and right hand)
 
-^ In that example, first le modifies 'xue'.  Second le modifies the entire phrase 'xue le san nian han yu'
-
-'guo' - have you done it before in the past? 
-
-
-
-### Measure Words (liang ci)
-- ge (generic)
-- jiàn (yifu)
-- tiáo (kuzi) long object, pants, ties, belts; can also say for fish, snakes, and even dogs?
-- shuāng (xie) - xie, shoes; wa zi, socks; kuai zi - a pair of something with a left and right | the character is you doubled; you means hand (left and right hand)
-
-bing - sick
-can also say sheng + bing + le (getting sick)
-
-ta qing bing jia le - ask for sick leave
-bǎo xiǎn - insurance
-yī liáo bǎo xiǎn - medical insurance
-
-### Radical - shǔi (san dian shui 三点水)
+### Radical - shǔi (sān diǎn shuǐ 三点水)
 
 Radical implies the involvement of water
 
 #### Breakdown of 洗 (xǐ), to wash
 
 - 洗 - left side is shǔi radical; right side is xian 先 (xian sheng), which is the pronunciation. Pronunciation is more often on the right side, but not necessarily
-- breakdown of xian 先 => top is niu like cow 牛, er 儿 on bottom meaning son
+- breakdown of xian 先 -> top is niu like cow 牛, er 儿 on bottom meaning son
 
-### guàng 
+### guàng 逛
 
 逛 - breakdown of characters - first radical is shi; second radical is quan (dog, work dog not puppy), 王 wang, story is that a dog walks around in a relaxed manner. 
 
@@ -83,6 +69,15 @@ you de you de vs you diar you diar
 
 ## Vocabulary
 
+#### bìng 病 - sick
+
+生病了 shēng bìng le - getting sick
+
+Tā qǐng bìng jià le - ask for sick leave
+
+#### bǎo xiǎn - insurance
+
+yī liáo bǎo xiǎn - medical insurance
 --- 
 
 ## Prepared Passage

@@ -2,21 +2,26 @@
 id: DxgRTuVVn0OjIucct9Bm6
 title: '2021-09-13'
 desc: ''
-updated: 1632651471458
+updated: 1633187183415
 created: 1631501882979
 ---
 
-## Lesson Notes
+## Class Notes
 
-### Difference between bú gǔo, ke shi, dan shi
+### Difference between bù guò, kě shì, dàn shì
 
-These words indicate differences in strength of the meaning. bu guo - 30%, ke shi 50%, dan shi 100%.  Example from Ellie - turning down someone for a date.  Dan shi is a definite no. 
+These words indicate differences in strength of the meaning:
+- bù guò (不过) - 30%
+- kě shì （可是）- 50%
+- dàn shì (但是) - 100%
 
-### Object of zhǎo
+Example from Ellie - turning down someone for a date. dàn shì is a definite no. 
 
-the object of zhao must be something that is visible. zhǎo a person, zhǎo a dī fang.  But I cannot zhǎo a "zhōng wen ke"
+### Object of zhǎo（找）must be tangible
 
-## Additional Vocabulary
+the object of zhǎo（找）must must be something that is visible: zhǎo a person, zhǎo a dī fang.  But I cannot zhǎo a "zhōng wen ke"
+
+## Vocabulary
 
 | Chinese  | English  |
 | -------- | -------- |

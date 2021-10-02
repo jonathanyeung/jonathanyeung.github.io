@@ -2,13 +2,13 @@
 id: yW2dK5GZuFbzMGlFbSTLJ
 title: '2021-09-16'
 desc: ''
-updated: 1632362409661
+updated: 1633187471859
 created: 1631720962922
 ---
 
 ## Class Notes
 
-#### Differences in words for restaurants / buildings
+### Differences in words for restaurants / buildings
 
 - fàn guǎn(r) (饭馆儿) - restaurant
 - cān tīng (餐厅)- smaller, can be a sub-part of a fan guan(r)
@@ -29,7 +29,7 @@ Breakdown of 馆 (guǎn) character:
 
 On the right side, there's a roof over a character meaning 'government official' (goon in Cantonese). So it's a roof over where officials gather; a formal gathering place
 
-#### kè 客
+### kè 客
 
 Very commonly used word. Same as in 不客气 （you're welcome)
 
@@ -38,50 +38,42 @@ Very commonly used word. Same as in 不客气 （you're welcome)
 - kè rén - customer at a restaurant; guest visiting your home
 - kè hù - customer at a bank (haak in Cantonese)
 
-#### Teacher (lao shi vs xian sheng)
+### Teacher (lao shi vs xian sheng)
 
 xian sheng is not used to mean liao shi anymore (old China word), unless that liao shi is very esteemed. Now it's mostly used for meaning "sir"; can also be used fo rhusband (more formal than lao gong)
 
-#### fǎn yì 反义
+### fǎn yì 反义
 
 the opposite. For example, fǎn yì ci is the opposite word of something (shang vs xia)
 
-#### zì (字) vs cí (词)
+### zì (字) vs cí (词)
 
 zi is one character, ci is usually compound characters (2+)
 
-#### miàn (面) vs bian (边)
+### miàn (面) vs bian (边)
 
 very similar, bian means edge, mian is an open face.  li mian, li bian
 
-#### zuǒ (左) vs yòu (右) characters
+后边 - hòubian; behind
+前边 - qiánbian; in front
+
+### zuǒ (左) vs yòu (右) characters
 
 Important characters to learn. 
-左 has a 工 - because you 'typically work with your right hand'
-右 has a 口 - because you typically eat with your right hand
+左 has a 工 - because you 'typically work with your left hand'
+右 has a 口 - because you 'typically eat with your right hand'
 
+## Vocabulary
 
-后边 - hou bian; behind
-前边 - qian bian; in front
-
-
-
-also learn characters for qian and hou bian 
-
-
-### Additional Vocabulary
-
-Checkbox indicates note card made
-
-- [ ] zuo zi - table
-- [ ] zi xue - self study
-- [ ] liao tian(r) | shuo tianr means weather, because it means to do small talk (like talking about the weather)
-- [ ] yu san - umbrella
-- [ ] san oǔ ěr - occassionally
-- [ ] ya yi - emotion, feeling
-- [ ] da suan - planning | subject + da suan  + time + (place) + do something. place must be prefixed by zai or qu 
-- [ ] da zhe - this clothes is too expensive, can you make it? 
-- [ ] Zhou Mo (周末) - weekend
+- zuo zi - table
+- zi xue - self study
+- liao tian(r) | shuo tianr means weather, because it means to do small talk (like talking about the weather)
+- yu san - umbrella
+- san oǔ ěr - occassionally
+- ya yi - emotion, feeling
+- da suan - planning | subject + da suan  + time + (place) + do something. place must be prefixed by zai or qu 
+- da zhe - this clothes is too expensive, can you make it? 
+- zhou mo (周末) - weekend
 
 _week of 20th no class on Monday and Tuesday._
 
@@ -118,6 +110,4 @@ Ranghou, women yiding geli  er shi yi tian zai jiu dian.  Xia qi wo hui xie wo g
 
 我们坐飞机也很有意思 - 下机的时候， 我看不出来是一个机场航站楼 - 如此是医院。 机场工作人员都穿衣服（protective）。 看次来他们是医生， 不是机场工作人员。 
 
-让后， 我们一定隔离二十一天在酒店。 下期我会写我隔离的故事。 
-
---- 
+让后， 我们一定隔离二十一天在酒店。 下期我会写我隔离的故事。
