@@ -54,8 +54,6 @@
       ]
     },
     "siteUrl": "https://jonathanyeung.github.io/",
-    "dest": "/Users/jyeung/code/personal-blog/.next",
-    "includeBody": true,
     "usePrettyLinks": true,
     "siteNotesDir": "notes",
     "siteFaviconPath": "favicon.ico",
