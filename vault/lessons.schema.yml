@@ -1,0 +1,23 @@
+version: 1
+imports: []
+schemas:
+  - id: lessons
+    parent: root
+    children:
+      - year
+  - id: year
+    title: year
+    pattern: "[0-2][0-9][0-9][0-9]"
+    children: 
+      - month
+  - id: month
+    title: month
+    pattern: "[0-9][0-9]"
+    children:
+      - day
+  - id: day
+    title: day
+    pattern: "[0-9][0-9]"
+    template:
+      id: templates.lessons
+      type: note
