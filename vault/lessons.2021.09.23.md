@@ -1,6 +1,6 @@
 ---
 id: AsBIKJdqsowZ8rqLeiDkq
-title: '2021-09-23'
+title: '23'
 desc: ''
 updated: 1633188177915
 created: 1632362320211
@@ -8,7 +8,7 @@ created: 1632362320211
 
 ## Class Notes
 
-### Different Ways to Combine Verbs
+### Ways to Combine Verbs
 
 Several different ways to say that 'we had a quick chat':
 1. wǒmen liáo yī liáo ｜  **verb + 一 + verb** (indicates action in the present)
