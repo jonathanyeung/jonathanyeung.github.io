@@ -2,7 +2,7 @@
 id: yUBJXZ0kM0GE3j77QBNlz
 title: '2021-10-11'
 desc: ''
-updated: 1633968288417
+updated: 1634175174879
 created: 1633853177910
 ---
 
@@ -19,7 +19,7 @@ Often used with a who/what/when/where/why/how kind of question or statement:
 1. 我的手机是苹果的。Wǒ de shǒujī shì píngguǒ de.
 1. 这个杯子是我的。Zhège bēizi shì wǒ de.
 1. 我的杯子是红色的。Wǒ de bēizi shì hóngsè de.
-1. 你们（是）去哪儿玩儿的。 Nǐmen (shì) qù nǎ'er wán er de.
+1. 你们（是）去哪儿玩儿的。 Nǐmen (shì) qù nǎ'er wánr de?
 1. 你们是怎么去的？Nǐmen shì zěnme qù de？
 
 Note: shéi 谁 can be pronounced as shuí sometimes (meaning who)
