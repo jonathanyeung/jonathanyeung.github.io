@@ -2,7 +2,7 @@
 id: yUBJXZ0kM0GE3j77QBNlz
 title: '2021-10-11'
 desc: ''
-updated: 1634175174879
+updated: 1634743283439
 created: 1633853177910
 ---
 
@@ -61,26 +61,6 @@ Note: shéi 谁 can be pronounced as shuí sometimes (meaning who)
 - 带 dài - to take along, to bring
 - 地图 dìtú - map 
 - 搬 bān - to move, to carry
-
-### HSK3 - Lesson 2
-
-- tuǐ - leg
-- téng - hurt, painful
-- jiǎo - foot
-- shù - tree
-- róngyì - easy
-- nán - difficult
-- tàitai - Mrs, madam
-- mìshū - secretary
-- jīnglǐ - manager
-- bàngōngshì - office
-- liàng - measure word for vehicles
-- lóu - building
-- bǎ - measure word for things with handles
-- sǎn - umbrella
-- pàng - fat
-- qíshí - actually
-- shòu - thin
 
 ### HSK3 - Lesson 3
 - háishi - or

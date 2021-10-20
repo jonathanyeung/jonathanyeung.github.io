@@ -2,12 +2,42 @@
 id: 5C1JG7tYZgVeoEFtjmiDj
 title: '2021-10-18'
 desc: ''
-updated: 1634743164378
+updated: 1634744035573
 created: 1634522416391
 published: false
 ---
 
 ## Class Notes
+
+### Winter vs Summer
+
+- 冬天 dōngtiān
+    - 暖气 nuǎnqì - heating (in a building)
+    - 暖和 nuǎnhuo - warm
+- 夏天 xiàtiān
+    - 冷气 lěngqì - air conditioner (more commonly called 空调 kòngtiáo)
+
+four feelings, corresponding to each season:
+- 暖和 nuǎnhuo - comfortably warm, during spring
+- 热 rè - hot, during summer
+- 凉快 liángkuai - comfortably cool, during fall
+- 冷 lěng - cold, during winter
+
+### Shows and Celebrities 
+
+- 脱口秀 tuōkǒu xiù - talk show
+- 选秀 xuǎnxiù - talent show (American Idol, for example)
+- 明星 míngxīng - celebrity
+- 偶像 ǒu xiàng - idol
+- 粉丝 fěn sī - fans
+
+Funny Saying:
+
+> 我是牛肉面的粉丝。
+
+Wǒ shì niúròu miàn de fěnsī. 
+
+Word play on fěnsī, which means thin noodles.
 
 ### gōng 公
 
@@ -19,8 +49,7 @@ public
 公立学校 - public school
 公司 - company 
 
-related （opposite）:
-私 sī - private
+#### 私 sī - private (opposite meaning, [[fǎn yì 反义|lessons.2021.09.16#fǎn-yì-反义]])
 
 Notice the similarity in characters between 公 and 私
 
@@ -77,32 +106,24 @@ Underneath the radical (bìng zì tóu) is dōng 冬. Getting hit during winter 
 
 ## Vocabulary
 
-### Winter vs Summer
+### HSK3 - Lesson 2
 
-- 冬天 dōngtiān
-    - 暖气 nuǎnqì - heating (in a building)
-    - 暖和 nuǎnhuo - warm
-- 夏天 xiàtiān
-    - 冷气 lěngqì - air conditioner (more commonly called 空调 kòngtiáo)
-
-four feelings, corresponding to each season:
-- 暖和 nuǎnhuo - comfortably warm, during spring
-- 热 rè - hot, during summer
-- 凉快 liángkuai - comfortably cool, during fall
-- 冷 lěng - cold, during winter
-
-### Shows and Celebrities 
-
-- 脱口秀 tuōkǒu xiù - talk show
-- 选秀 xuǎnxiù - talent show (American Idol, for example)
-- 明星 míngxīng - celebrity
-- 偶像 ǒu xiàng - idol
-- 粉丝 fěn sī - fans
-
-Funny Saying:
-
-> 我是牛肉面的粉丝。
-
-Wǒ shì niúròu miàn de fěnsī. 
-
-Word play on fěnsī, which means thin noodles.
+| 汉子  | pīnyīn     | meaning                              |
+| --- | ---------- | ------------------------------------ |
+| 腿   | tuǐ        | leg                                  |
+| 疼   | téng       | hurt, painful                        |
+| 脚   | jiǎo       | foot                                 |
+| 树   | shù        | tree                                 |
+| 容易  | róngyì     | easy                                 |
+| 难   | nán        | difficult                            |
+| 太太  | tàitai     | Mrs, madam                           |
+| 秘书  | mìshū      | secretary                            |
+| 经理  | jīnglǐ     | manager                              |
+| 办公室 | bàngōngshì | office                               |
+| 辆   | liàng      | measure word for vehicles            |
+| 楼   | lóu        | building                             |
+| 把   | bǎ         | measure word for things with handles |
+| 伞   | sǎn        | umbrella                             |
+| 胖   | pàng       | fat                                  |
+| 其实  | qíshí      | actually                             |
+| 瘦   | shòu       | thin                                 |

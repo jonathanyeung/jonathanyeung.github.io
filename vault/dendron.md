@@ -2,7 +2,7 @@
 id: H9qDzxUwhOmeT4zlcaKbf
 title: Dendron
 desc: 'Chinese in Dendron'
-updated: 1632992574634
+updated: 1634744850054
 created: 1632992377370
 ---
 
@@ -22,3 +22,8 @@ Type the keyboard shortcut, then the vowel
 ## Additional Tools
 - [Google Translate](https://translate.google.com/)
 - [Pleco](https://www.pleco.com)
+
+### Web Dictionaries
+
+- [Yellow Bridge](https://www.yellowbridge.com/chinese/dictionary.php)
+- [Line Dict](https://dict.naver.com/linedict/zhendict/#/cnen/home)
