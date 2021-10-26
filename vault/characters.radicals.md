@@ -2,13 +2,13 @@
 id: TJ3Npm1C4kAeguifF6rel
 title: Radicals
 desc: ''
-updated: 1634485345511
+updated: 1635079184710
 created: 1634483802379
 ---
 
 ## 100 Most Common Radicals [^1]
 
-| Simplified | Traditional | Alt. Form | Meaning               | pīnyīn     | Examples | Notes                                                                                                                     | Full Char Example     |
+| Simplified | Traditional | Alt. Form | Meaning               | pīnyīn     | Examples | Notes                                                                                                                     | Radical Name          |
 | ---------- | ----------- | --------- | --------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------- |
 | 人          | 人           | 亻         | human, person, people | rén        | 今仁休位他    | Note similarity with 八, which means eight.                                                                                | 单人旁（亻），人字头（人）         |
 | 口          | 口           |           | mouth, opening        | koǔ        | 古可名告知    | Note similarity with 囗, which always encloses characters, and means enclosure.                                            | 口字旁                   |
@@ -17,13 +17,13 @@ created: 1634483802379
 | 心          | 心           | 忄，⺗       | heart                 | xīn        | 必忙忘性想    |                                                                                                                           | 竖心旁（忄），心字底（心），竖心底（⺗）  |
 | 手          | 手           | 扌，龵       | hand                  | shǒu       | 持掌打抱押    |                                                                                                                           | 提手旁（扌），看字头（龵），手字旁（手）  |
 | 日          | 日           |           | sun, day              | rì         | 白百明时晩    | Note similarity with 曰, which is broader and lower, and means to say. Also note 白 which means white.                      | 日字旁                   |
-| 月          | 月           |           | moon, month           | yuè        | 有服青朝明    | This radical is actually two: moon 月 and meat 肉, but in modern Chinese, they look the same in most cases。                 | 月字旁                   |
+| 月          | 月           |           | moon, month           | yuè        | 有服青朝明    | [[characters.radicals.yue]]. This radical is actually two: moon 月 and meat 肉。                                             | 月字旁                   |
 | 木          | 木           |           | tree                  | mù         | 板相根本林    | Note similarity with 禾, which means grain.                                                                                | 木字旁                   |
 | 氵          | 氵           | 水，氺       | water                 | shuǐ       | 永泳海洋沙    | Note similarity with 冫, which means ice.                                                                                  | 水字旁（水），三点水（氵），泰字底水（氺） |
 | 火          | 火           | 灬         | fire                  | huǒ        | 灯炎焦然炸    |                                                                                                                           | 火字旁（火），四点底（灬）         |
 | 纟          | 糹           | 糸         | silk                  | mì         | 纪纸累细绩    |                                                                                                                           | 绞丝旁（纟），独立绞丝（糸）        |
 | 艹          | 艹           | 艸         | grass                 | cǎo        | 花英苦草茶    | Note that when the radical is on top, the traditional variant has four strokes.                                           | 草字头（艹）                |
-| 讠          | 訁           | 言         | speech                | yán        | 说讲识评试    |                                                                                                                           | 言字旁（讠）                |
+| 讠          | 訁           | 言         | speech                | yán        | 说讲识评试    | [[characters.radicals.yan]]                                                                                               | 言字旁（讠）                |
 | 辶          | 辶           | ⻍         | walk                  | chuò       | 迎通道这近    |                                                                                                                           | 走之旁（⻌）                |
 | 钅          | 釒           | 金         | gold, metal           | jīn        | 银针钱铁钟    |                                                                                                                           | 金字旁（钅）                |
 | 刂          | 刂           | 刀         | knife, sword          | dāo        | 分切初利刻    | Note similarity with 力, which means force.                                                                                | 立刀旁（刂），刀字旁（刀）         |
@@ -42,7 +42,7 @@ created: 1634483802379
 | 田          | 田           |           | field                 | tian2      | 思留略番累    |                                                                                                                           | 田字旁                   |
 | 目          | 目           | 罒         | eye                   | mu4        | 眼睛看相省    | Note that the horizontal version can also mean net.                                                                       | 目字旁（目），四字头（罒）         |
 | 石          | 石           |           | stone                 | shi2       | 砂破碑矿码    |                                                                                                                           | 石字旁                   |
-| 衤          | 衤           | 衣         | clothes               | yi1        | 初被裁裤袜    | Note similarity with  礻, which means sign, show or spirit.                                                                | 衣字旁（衤）                |
+| 衤          | 衤           | 衣         | clothes               | yi1        | 初被裁裤袜    | [[characters.radicals.yi]]. Note similarity with  礻, which means sign, show or spirit.                                    | 衣字旁（衤）                |
 | 足          | 足           | ⻊         | foot                  | zú         | 跑跨跟路距    |                                                                                                                           | 足字旁                   |
 | 马          | 馬           |           | horse                 | mǎ         | 码驾骂驻妈    |                                                                                                                           | 马字旁                   |
 | 页          | 頁           |           | leaf                  | ye4        | 顺须领预顶    |                                                                                                                           | 页字旁                   |
@@ -66,7 +66,7 @@ created: 1634483802379
 | 子          | 子           |           | child, seed           | zi3        | 字学存孩季    |                                                                                                                           | 子字旁                   |
 | 疒          | 疒           |           | sickness              | (ne4)      | 病痛疗疯痩    |                                                                                                                           | 病字旁                   |
 | 隹          | 隹           |           | (short-tailed) bird   | (zhui1)    | 雀集难雅谁    |                                                                                                                           | 隹字旁                   |
-| 斤          | 斤           |           | axe                   | (jin1)     | 所新听近析    |                                                                                                                           | 斤字旁                   |
+
 | 亠          | 亠           |           | lid                   | (tou2)     | 亡交京      | Note similarity with  宀, which means roof, and 冖 which means cover.                                                       | 点横头                   |
 | 王          | 王           | 玉         | jade, king            | yu4, wang2 | 主弄皇理现    | This radical is 玉, but when in composition, it looks like 王, king, and is probably more easily remembered like that.      | 王字旁                   |
 | 白          | 白           |           | white                 | bai2       | 的皆皇怕迫    | Note similarity with 日, which means sun.                                                                                  | 白字旁                   |

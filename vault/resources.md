@@ -1,8 +1,8 @@
 ---
 id: H9qDzxUwhOmeT4zlcaKbf
-title: Dendron
-desc: 'Chinese in Dendron'
-updated: 1634744850054
+title: Resources
+desc: Chinese in Dendron
+updated: 1634995055190
 created: 1632992377370
 ---
 
@@ -26,4 +26,5 @@ Type the keyboard shortcut, then the vowel
 ### Web Dictionaries
 
 - [Yellow Bridge](https://www.yellowbridge.com/chinese/dictionary.php)
+    - [The Etymology Explorer](https://www.yellowbridge.com/chinese/character-etymology.php?zi=%E8%85%BF#) is particularly useful for understanding radicals and character composition
 - [Line Dict](https://dict.naver.com/linedict/zhendict/#/cnen/home)

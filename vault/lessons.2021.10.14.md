@@ -2,9 +2,8 @@
 id: AXN0PIA2DFTg9gJxQKMB1
 title: '2021-10-14'
 desc: ''
-updated: 1634710133092
+updated: 1635180343740
 created: 1634176544118
-published: false
 ---
 
 ## Class Notes

@@ -2,9 +2,8 @@
 id: 5C1JG7tYZgVeoEFtjmiDj
 title: '2021-10-18'
 desc: ''
-updated: 1634744035573
+updated: 1635180349446
 created: 1634522416391
-published: false
 ---
 
 ## Class Notes
@@ -71,7 +70,7 @@ building
 小楼 - small building
 摩天大楼 - skyscraper muó tiān (touch the sky)
 
-### 腿 tuǐ and 脚 jiǎo (leg and foot)
+### 月 yuè radical
 
 月 yuè radical means moon, but it also meat! (肉)
 
@@ -102,7 +101,7 @@ pain
 
 Underneath the radical (bìng zì tóu) is dōng 冬. Getting hit during winter tends to hurt more.  
 
-冬 bottom of dōng is the ice radical.
+冬 bottom of dōng is the [[bīng radical|characters.radicals.bing]].
 
 ## Vocabulary
 

@@ -1,0 +1,12 @@
+version: 1
+imports: []
+schemas:
+  - id: characters
+    parent: root
+    children:
+      - pattern: "radicals"
+        children:
+          - pattern: "*"
+            template:
+              id: templates.radicals
+              type: note
