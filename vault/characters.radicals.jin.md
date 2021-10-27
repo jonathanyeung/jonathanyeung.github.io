@@ -2,9 +2,8 @@
 id: IxGOuUV1RHVzdcfJa3xCI
 title: jīn
 desc: '斤 jīn'
-updated: 1635082611769
+updated: 1635331377768
 created: 1635082447991
-published: false
 ---
 
 ## 斤

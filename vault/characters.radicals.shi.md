@@ -2,9 +2,8 @@
 id: zyRX5qsuwddqrsfyGyryX
 title: shí
 desc: '饣 shí'
-updated: 1635089587700
+updated: 1635331399756
 created: 1635089345049
-published: false
 ---
 
 ## 饣
