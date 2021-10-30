@@ -16,7 +16,8 @@ site:
     title: Jonathan's 中文 Journal
     description: My Journal for Learning Mandarin
     siteLastModified: true
-    gh_edit_branch: main
+    gh_edit_repository: 'https://github.com/jonathanyeung/jonathanyeung.github.io'
+    gh_edit_branch: master
     duplicateNoteBehavior:
         action: useVault
         payload:

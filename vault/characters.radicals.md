@@ -2,7 +2,7 @@
 id: TJ3Npm1C4kAeguifF6rel
 title: Radicals
 desc: ''
-updated: 1635079184710
+updated: 1635502709957
 created: 1634483802379
 ---
 
@@ -66,7 +66,6 @@ created: 1634483802379
 | 子          | 子           |           | child, seed           | zi3        | 字学存孩季    |                                                                                                                           | 子字旁                   |
 | 疒          | 疒           |           | sickness              | (ne4)      | 病痛疗疯痩    |                                                                                                                           | 病字旁                   |
 | 隹          | 隹           |           | (short-tailed) bird   | (zhui1)    | 雀集难雅谁    |                                                                                                                           | 隹字旁                   |
-
 | 亠          | 亠           |           | lid                   | (tou2)     | 亡交京      | Note similarity with  宀, which means roof, and 冖 which means cover.                                                       | 点横头                   |
 | 王          | 王           | 玉         | jade, king            | yu4, wang2 | 主弄皇理现    | This radical is 玉, but when in composition, it looks like 王, king, and is probably more easily remembered like that.      | 王字旁                   |
 | 白          | 白           |           | white                 | bai2       | 的皆皇怕迫    | Note similarity with 日, which means sun.                                                                                  | 白字旁                   |
