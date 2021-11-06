@@ -1,8 +1,8 @@
 ---
 id: Oy7cCTpeE8GM1VlfgIYok
 title: pá
-desc: 'climb'
-updated: 1635266536824
+desc: '爬 climb'
+updated: 1635657228363
 created: 1635077497914
 ---
 
