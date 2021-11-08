@@ -45,7 +45,7 @@ jobs:
 
     - name: Update files
       run: |
-        cd .next && [[ -d ../docs ]] && rm -r ../docs && mv out ../docs && touch ../docs/.nojekyll && cd ..
+        cd .next && mv out ../docs && touch ../docs/.nojekyll && cd ..
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
