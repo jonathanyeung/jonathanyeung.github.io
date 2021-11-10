@@ -2,7 +2,7 @@
 id: H9qDzxUwhOmeT4zlcaKbf
 title: Resources
 desc: Chinese in Dendron
-updated: 1634995055190
+updated: 1636374797875
 created: 1632992377370
 ---
 
@@ -21,6 +21,7 @@ Type the keyboard shortcut, then the vowel
 
 ## Additional Tools
 - [Google Translate](https://translate.google.com/)
+- [Bing Translate](https://www.bing.com/translator)
 - [Pleco](https://www.pleco.com)
 
 ### Web Dictionaries
