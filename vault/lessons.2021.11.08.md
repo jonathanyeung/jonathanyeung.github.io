@@ -2,7 +2,7 @@
 id: yFejTjvnmbHFuBpELa4on
 title: 2021-11-08
 desc: ''
-updated: 1636594046711
+updated: 1636886576846
 created: 1636336905315
 ---
 
@@ -33,14 +33,13 @@ wang gou 网购  wǎnggòu - online shopping
 - 季节 jìjié - season
 
 - 春天 - spring 
-    Character Etymology: there's a sun, and grass growing up, with roots below the ground 
+    ![[Character Formation|characters.dict.chun#character-formation]]
 - 夏天 - summer
     夏 doesn't actually mean summer, means Chinese. First dynasty was xia dynasty; unclear how this word became the meaning for summer. Another way to 'remember' is that you need a hat during the summer
 - 秋天 - fall 
     Etymology: grass + fire; need to burn fields after harvest to fertilize the ground for next season
 - 冬天 - winter
 
-#todo word etymologies on chun
 
 ## Vocabulary
 

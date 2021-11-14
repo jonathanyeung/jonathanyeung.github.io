@@ -2,9 +2,8 @@
 id: bi9ZcItrcJa1uHF6IAHn1
 title: tǔ
 desc: '土 earth'
-updated: 1635655205569
+updated: 1636887894290
 created: 1635655067240
-published: false
 ---
 
 ## 土

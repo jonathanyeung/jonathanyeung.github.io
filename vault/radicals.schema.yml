@@ -10,3 +10,9 @@ schemas:
             template:
               id: templates.radicals
               type: note
+      - pattern: "dict"
+        children:
+          - pattern: "*"
+            template:
+              id: templates.dictionary
+              type: note    

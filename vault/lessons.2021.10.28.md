@@ -2,9 +2,8 @@
 id: b2Uwdvnhnzb3phXolnhMp
 title: '2021-10-28'
 desc: ''
-updated: 1635700865960
+updated: 1636887899946
 created: 1635267896538
-published: false
 ---
 
 ## Class Notes

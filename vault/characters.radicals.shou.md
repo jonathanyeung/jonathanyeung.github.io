@@ -2,9 +2,8 @@
 id: qDGkxOQpNcJrdEv9x2LLQ
 title: shǒu
 desc: '扌，龵，手 hand'
-updated: 1635654707688
+updated: 1636887890005
 created: 1635654338727
-published: false
 ---
 
 ## 扌，龵，手

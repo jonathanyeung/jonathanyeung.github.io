@@ -2,7 +2,7 @@
 id: HuUl9182ISnc1y2Yhec6I
 title: '2021-11-11'
 desc: ''
-updated: 1636885732255
+updated: 1636886422484
 created: 1636595965392
 ---
 
@@ -14,7 +14,7 @@ created: 1636595965392
 
 Appearance, style - can be used to describe both people and objects 
 
-- 她长地什么样子？Tā cháng dì shénme yàngzi? 
+- 她长什么样子？Tā zhǎng shénme yàngzi? What does she look like
 - 你喜欢什么样子的？Nǐ xǐhuān shénme yàngzi de?
 - 你想找什么样子的？Nǐ xiǎng zhǎo shénme yàngzi de? - What are you looking for? Can also be used to ask what you are looking for in a partner; what kind of job are you looking for, etc.
 - 你看看你什么样子？ Nǐ kàn kàn nǐ shénme yàngzi - Why are you being like this? (strong)

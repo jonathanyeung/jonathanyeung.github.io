@@ -2,7 +2,7 @@
 id: TJ3Npm1C4kAeguifF6rel
 title: Radicals
 desc: '100 Most Common Radicals'
-updated: 1635655262490
+updated: 1636888236901
 created: 1634483802379
 ---
 
@@ -43,7 +43,7 @@ created: 1634483802379
 | 目          | 目           | 罒         | eye                   | mu4        | 眼睛看相省    | Note that the horizontal version can also mean net.                                                                           | 目字旁（目），四字头（罒）         |
 | 石          | 石           |           | stone                 | shi2       | 砂破碑矿码    |                                                                                                                               | 石字旁                   |
 | 衤          | 衤           | 衣         | clothes               | yi1        | 初被裁裤袜    | [[characters.radicals.yi]]. Note similarity with  礻, which means sign, show or spirit.                                        | 衣字旁（衤）                |
-| 足          | 足           | ⻊         | foot                  | zú         | 跑跨跟路距    |                                                                                                                               | 足字旁                   |
+                                                                                                         | 足字旁                   |
 | 马          | 馬           |           | horse                 | mǎ         | 码驾骂驻妈    |                                                                                                                               | 马字旁                   |
 | 页          | 頁           |           | leaf                  | ye4        | 顺须领预顶    |                                                                                                                               | 页字旁                   |
 | 巾          | 巾           |           | turban, scarf         | (jin1)     | 市布帝帐帽    |                                                                                                                               | 巾字旁                   |
@@ -53,7 +53,7 @@ created: 1634483802379
 | 尸          | 尸           |           | corpse                | shi1       | 尺局尾居展    | Note similarity with 戶, which means door, family.                                                                             | 尸字头                   |
 | 寸          | 寸           |           | thumb, inch           | cun4       | 寺尊对射付    |                                                                                                                               | 寸字旁                   |
 | 山          | 山           |           | mountain              | shan1      | 岩岛岁崗岔    |                                                                                                                               | 山字旁（头）                |
-| 攵          | 攵           | 攴         | knock, tap            | (pu1)      | 收改攻做政    | Note similarity with 夊, which means to walk (slowly).                                                                         | 反文旁（攵），旧反文旁（攴）        |
+
 | 彳          | 彳           |           | (small) step          | (chi2)     | 彼很律微德    | Note similarity with 亻, which means human, person.                                                                            | 双人旁                   |
 | 十          | 十           |           | ten                   | shi2       | 什计古叶早    |                                                                                                                               | 十字旁（头）                |
 | 工          | 工           |           | work                  | gong1      | 左江红巧功    |                                                                                                                               | 工字旁                   |
