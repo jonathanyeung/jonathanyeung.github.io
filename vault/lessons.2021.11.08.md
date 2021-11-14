@@ -2,7 +2,7 @@
 id: yFejTjvnmbHFuBpELa4on
 title: 2021-11-08
 desc: ''
-updated: 1636564036489
+updated: 1636594046711
 created: 1636336905315
 ---
 
@@ -10,7 +10,7 @@ created: 1636336905315
 
 ### 11.11 Shopping Bonanza
 
-"双 + 一 "
+"双十一 "
 
 光棍儿节 guānggùn er jié - "singles day". guāng means empty, gùn er means stick; i.e. like a stick (a person) that has nothing.
 
