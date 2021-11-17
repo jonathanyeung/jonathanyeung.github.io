@@ -2,7 +2,7 @@
 id: f6kIg6T8ilPrLW1eKlb4F
 title: chūn
 desc: '春 spring'
-updated: 1636886619066
+updated: 1636906974216
 created: 1636268168571
 ---
 
@@ -20,6 +20,6 @@ Character Etymology: there's a sun, and grass growing up, with roots below the g
 
 ```
 春
-├── (top part) pěng folded hands
-└── 日 sun 
+├── 𡗗 pěng - folded hands
+└── 日 rì - sun 
 ```
