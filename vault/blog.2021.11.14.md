@@ -2,7 +2,7 @@
 id: fkpnGvUtpyPVG8iZL64J9
 title: 'First Snow'
 desc: ''
-updated: 1636906853044
+updated: 1637201739871
 created: 1636902503166
 ---
 
@@ -30,7 +30,22 @@ Wǒ yīdìng chèn shuāng shíyī dá zhé lái mǎi yī jiàn xīn de tèbié 
 
 因为之前我住在香港差不多三年，我习惯热的天气。我忘了冷天起怎么样。
 
-我一定趁双十一打折来买一件新的特别暖的羽绒服。
+我一定趁双十一打折**的时候**来买一件新的特别暖的羽绒服。
+
+alternatively （more casual of) 我趁着。。。，but then don't use 的时候
+
+Correction: #todo
+
+
+verb + zai + di fang + zuo shenme;
+move di fang forward, not after 'zuo shenme' (not wo chi fan zai jia. )
+
+Related:
+
+- s + time + zai + di fang + v + o
+- time, s + zai + di fang + v + o
+as opposed to English, which is typically
+s + v + o + time + zai + di fang
 
 
 ## Google Retranslate

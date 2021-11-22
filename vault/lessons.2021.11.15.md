@@ -1,10 +1,9 @@
 ---
 id: q9zMHJH3uql65CkwiQ18q
-title: '15'
+title: '2021-11-15'
 desc: ''
-updated: 1637169523883
+updated: 1637200815096
 created: 1636941563974
-published: false
 ---
 
 ## Class Notes
