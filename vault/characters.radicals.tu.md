@@ -2,7 +2,7 @@
 id: bi9ZcItrcJa1uHF6IAHn1
 title: tǔ
 desc: '土 earth'
-updated: 1636887894290
+updated: 1638094668431
 created: 1635655067240
 ---
 
@@ -22,7 +22,6 @@ tǔ
 - 地
 - 型
 - 城
-- 地
 
 ## Full Character
 
