@@ -2,8 +2,9 @@
 id: aQM7JamYM5VRXzGaAefhv
 title: Character Dictionary Template
 desc: ''
-updated: 1636886822531
+updated: 1637599605078
 created: 1636886769393
+published: false
 ---
 
 ## (character)
