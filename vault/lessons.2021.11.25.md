@@ -2,26 +2,25 @@
 id: 4gakyS9oNh3zMrEXmbCRt
 title: '2021-11-25'
 desc: ''
-updated: 1638098525239
+updated: 1638151288919
 created: 1637807918426
 ---
 
 ## Class Notes
 
-### Story of the morning
+### Story of the Morning
 
-My Jian Kang Ma wasn't working because I switched phones. I forgot my ID so I coudln't log back in, so I had to run home and get it before I could get into the SOHO building.
+My [[jiàn kāng mǎ|lessons.2021.11.02#qr-codes-health-codes]] wasn't working because I switched phones. I forgot my ID and couldn't log back in, so I had to run home and get it before I could get into the SOHO building.
 
 ### 抓狂 zhuā kuáng - going crazy / losing my mind 
 
 - zhuā - grasp, the act of pulling. Like pulling your hair out, 
 - kuáng - mad 
 
-- 摔东西 shuāi dōngxī  - to throw something / beat somebody out of frustration 
-- "骂人“ màrén - curse word 
-
 - 发脾气 fā píqi - throw a tantrum, lose your temper
 - 发火儿 fāhuǒ er - be angry (from a boss, parent, etc.) Similar to fā píqi. 
+- 摔东西 shuāi dōngxī  - to throw something / beat somebody out of frustration 
+- "骂人“ màrén - curse word 
 
 控制 kòngzhì - to control (your temper, something else - like how many people can be inside a building b/c of covid)
 

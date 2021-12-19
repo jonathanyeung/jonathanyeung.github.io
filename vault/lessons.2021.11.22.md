@@ -2,7 +2,7 @@
 id: pFqF9fO60LAiJQF8UWfu8
 title: '2021-11-22'
 desc: ''
-updated: 1637599470392
+updated: 1639327765034
 created: 1637546587408
 ---
 
@@ -17,7 +17,7 @@ created: 1637546587408
 #### Cantonese Notes
 - 离 in Cantonese is pronounced lei4
 - 来 is pronounced as loi4
-- #todo question - why is 'come over' pronounced coloquially as "gwo3 lei4" and not "gwo3 loi4"?
+- In Cantonese, 'come over' is pronounced colloquially as "gwo3 lei4" and not "gwo3 loi4". But in the written form, it's still 过来
 
 ### 来 and 去
 

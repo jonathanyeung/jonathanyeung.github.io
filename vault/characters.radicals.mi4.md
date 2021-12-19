@@ -2,7 +2,7 @@
 id: 3KJhii45egKgEWoauxCry
 title: mì
 desc: '纟mì'
-updated: 1636886254013
+updated: 1638756447074
 created: 1635089921988
 ---
 
@@ -13,6 +13,8 @@ Traditional Form: 糹
 ## Meaning
 
 silk
+
+Originally, 丝 sī - which means silk, separated into 
 
 ## pīnyīn
 

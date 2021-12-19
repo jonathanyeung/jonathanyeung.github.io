@@ -2,7 +2,7 @@
 id: fBnjSQQSB7tJrdQD53O2T
 title: '2021-11-02'
 desc: ''
-updated: 1636564046992
+updated: 1638420938543
 created: 1635731974642
 ---
 
@@ -21,7 +21,7 @@ created: 1635731974642
 - 胸毛 xiōng máo - chest hair
 - 熊猫 xióng māo - panda
 
-Funny Store from Ellie:
+Funny Story from Ellie:
 
 _Phone Conversation between an exchange student and teacher:_
 
@@ -61,7 +61,7 @@ Practice Phrase: 红粉凤凰飞 Hóngfěn fènghuáng fēi - colorful pheonix f
 - 条形码 tiáo xíng mǎ - barcode
 - 密码 mì mǎ - password
 - 健康吗 jiàn kāng mǎ - special health code scan
-- 行程吗 xíng chéng - travel health code (app with the green arrow)
+- 行程吗 xíng chéng - travel health code (app with the ![[13|lessons.2021.12.13]])
 - 刷脸 shuā liǎn - face scan (like Face ID)
 
 #### Uses of shuā 刷
