@@ -2,9 +2,8 @@
 id: DkFX6BfDyjYTZuRj7FZsZ
 title: '29'
 desc: ''
-updated: 1639928195033
+updated: 1639965641748
 created: 1638151295267
-published: false
 ---
 
 ## Class Notes

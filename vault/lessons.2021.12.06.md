@@ -2,9 +2,8 @@
 id: uG9LZkgxFpx7lWVPAF5V1
 title: '2021-12-06'
 desc: ''
-updated: 1639926073609
+updated: 1639965649841
 created: 1638756183837
-published: false
 ---
 
 ## Class Notes
