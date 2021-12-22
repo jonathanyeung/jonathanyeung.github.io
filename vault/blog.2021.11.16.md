@@ -2,7 +2,7 @@
 id: EIR2BuuqiafPZOyDQa5U2
 title: 'Driving Exam'
 desc: '11/16/2021 Blog Post'
-updated: 1639015550593
+updated: 1640193305400
 created: 1638695503358
 ---
 
@@ -58,8 +58,8 @@ Jīntiān dì èr gè “cèshì”--wǒ yào xiě wǒ jiā de dìzhǐ wèile j�
 
 ## Vocabulary
 
-驾照 - jiazhao
-剩下 - shèng xià - the rest, the remaining
-背下来
-感觉
-信心 - confident
+- 驾照 jiàzhào - driver's license
+- 剩下 shèng xià - the rest, the remaining
+- 背下来 bèi xiàlái - memorize
+- 感觉 gǎnjué - feel
+- 信心 xìnxīn - confident
