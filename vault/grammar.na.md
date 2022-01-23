@@ -2,7 +2,7 @@
 id: A1Yo0JG7aZ6I9xZnSJ3lb
 title: Na
 desc: ''
-updated: 1633853149105
+updated: 1640193678786
 created: 1633836539010
 ---
 
@@ -11,6 +11,10 @@ created: 1633836539010
 Conjunction
 
 Used at the beginning of a sentence, 那 indicates the result of what was said previously. [^1]
+
+In English:
+- _"In that case..."_
+- _"Even so..."_
 
 ### Examples
 

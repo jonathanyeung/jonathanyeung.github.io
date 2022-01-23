@@ -2,7 +2,7 @@
 id: 4YM28z1YddyfxXSkaHGIh
 title: '2021-12-23'
 desc: ''
-updated: 1642524721650
+updated: 1642859425445
 created: 1640224628039
 ---
 
@@ -101,15 +101,15 @@ Examples:
 Mouth
 
 #### As a Measure word for family members
-- 你家有几口人？
+- 你家有几口人？Nǐ jiā yǒu jǐ kǒu rén？ - How many people do you have in your family?
 
 #### As a measure word for a small amount of food
-- 一口饭
-- 喝一口酒。
+- 一口饭 Yì kǒu fàn - One bite of rice
+- 喝一口酒。Hē yì kǒu jiǔ - Take a sip of wine
 
 ### 双
 
 measure word for a pair
-- 一双鞋
+- 一双鞋 yì shuāng xié - A pair of shoes
 - 一双袜子 socks
-- 一双筷子
+- 一双筷子 

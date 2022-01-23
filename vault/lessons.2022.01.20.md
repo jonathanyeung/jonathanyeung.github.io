@@ -2,7 +2,7 @@
 id: hSnToAMpJIck8o6fTA6ji
 title: '2021-01-20'
 desc: ''
-updated: 1642696110594
+updated: 1642859528174
 created: 1642644253457
 ---
 
@@ -50,10 +50,10 @@ Menu
 单 means single, or a thin layer of something
 
 Other uses of 单:
-- 单人 - one person
-- 单身 - single (in relationships)
-- 单车 - bike
-- 床单 - bedsheets
+- 单人 dān rén - one person
+- 单身 dān shēn - single (in relationships)
+- 单车 dān chē - bike
+- 床单 chuáng dān - bedsheets
 
 ### 故事 gùshì
 
