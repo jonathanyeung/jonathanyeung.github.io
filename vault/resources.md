@@ -2,7 +2,7 @@
 id: H9qDzxUwhOmeT4zlcaKbf
 title: Resources
 desc: Chinese in Dendron
-updated: 1636374797875
+updated: 1644422474217
 created: 1632992377370
 ---
 
@@ -29,3 +29,9 @@ Type the keyboard shortcut, then the vowel
 - [Yellow Bridge](https://www.yellowbridge.com/chinese/dictionary.php)
     - [The Etymology Explorer](https://www.yellowbridge.com/chinese/character-etymology.php?zi=%E8%85%BF#) is particularly useful for understanding radicals and character composition
 - [Line Dict](https://dict.naver.com/linedict/zhendict/#/cnen/home)
+
+### Fonts 
+
+For writing help and style
+
+https://fonts.google.com/?subset=chinese-simplified
