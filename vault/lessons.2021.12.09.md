@@ -71,7 +71,7 @@ meaning - definitely
 
 参 - by itself, it means to want
 
-### 了解 ![[Lululemon|lululemon]] jiě
+### 了解 jiě
 1. to learn
 1. to know someone very well (wo ren shi ta, dan shi wo bu liao jie ta).
 1. to know about a certain thing or situation.
