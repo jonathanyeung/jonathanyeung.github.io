@@ -1,7 +1,7 @@
 ---
 id: sv9uhfkRoad0eN8FgCFaH
 title: gēn
-desc: 'gēn 跟'
+desc: gēn 跟
 updated: 1636887458673
 created: 1635655714248
 ---

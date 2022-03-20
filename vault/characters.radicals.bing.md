@@ -1,7 +1,7 @@
 ---
 id: 4CnKLvbTq23lPhsU1d0Iw
 title: bīng
-desc: '冫bīng'
+desc: 冫bīng
 updated: 1635080758297
 created: 1634744981685
 ---

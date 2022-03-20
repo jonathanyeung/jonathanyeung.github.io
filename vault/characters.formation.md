@@ -2,7 +2,7 @@
 id: jBxlIY05cSIcZJbifvDzL
 title: Formation
 desc: ''
-updated: 1634996624858
+updated: 1646880011197
 created: 1634996400513
 ---
 
@@ -25,7 +25,7 @@ The character is composed of two or more components which together convey the de
 
 ### Pictophonetic
 
-The character is composed of at least two components and one of them provide an indication of the prnunciation while the rest provide an indication of the meaning, such as 按 (to push), where the 安 component indicates that the character is pronunced like "an" but its meaning has something to do with the hand 扌.
+The character is composed of at least two components and one of them provide an indication of the pronunciation while the rest provide an indication of the meaning, such as 按 (to push), where the 安 component indicates that the character is pronounced like "an" but its meaning has something to do with the hand 扌.
 
 ### Other
 

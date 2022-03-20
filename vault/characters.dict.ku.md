@@ -1,7 +1,7 @@
 ---
 id: AosMJyaa67Bs3dX4hLH6d
 title: kù
-desc: '裤 pants'
+desc: 裤 pants
 updated: 1635657218386
 created: 1635078070349
 ---

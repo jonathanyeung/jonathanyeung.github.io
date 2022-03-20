@@ -1,7 +1,7 @@
 ---
 id: Q5ncypXI1Hy1oyVFOW0k4
 title: yán
-desc: '讠yán'
+desc: 讠yán
 updated: 1635080771024
 created: 1635079003364
 ---

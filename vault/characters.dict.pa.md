@@ -1,7 +1,7 @@
 ---
 id: Oy7cCTpeE8GM1VlfgIYok
 title: pá
-desc: '爬 climb'
+desc: 爬 climb
 updated: 1635657228363
 created: 1635077497914
 ---

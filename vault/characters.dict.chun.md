@@ -1,7 +1,7 @@
 ---
 id: f6kIg6T8ilPrLW1eKlb4F
 title: chūn
-desc: '春 spring'
+desc: 春 spring
 updated: 1636906974216
 created: 1636268168571
 ---

@@ -1,7 +1,7 @@
 ---
 id: meVd8ImOMWKnAJui0ug2x
 title: yī
-desc: '衤yī'
+desc: 衤yī
 updated: 1642524404191
 created: 1635078347911
 ---

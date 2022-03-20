@@ -1,6 +1,6 @@
 ---
 id: 4eSu7z8PL5CrAOdZU5CUI
-title: 'Language Locked Escape Room'
+title: Language Locked Escape Room
 desc: ''
 updated: 1635179621859
 created: 1634995298009

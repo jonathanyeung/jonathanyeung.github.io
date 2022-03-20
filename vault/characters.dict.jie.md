@@ -1,7 +1,7 @@
 ---
 id: ygIz9ScAvqiDXeg9Au4P6
 title: jiē
-desc: '接 - to receive'
+desc: 接 - to receive
 updated: 1638093817127
 created: 1638093300361
 ---

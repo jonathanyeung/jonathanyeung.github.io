@@ -1,7 +1,7 @@
 ---
 id: bh2NAPqqh6LXXqDGlQIvK
 title: zú
-desc: '⻊zú - foot'
+desc: ⻊zú - foot
 updated: 1636888125533
 created: 1636887299072
 ---

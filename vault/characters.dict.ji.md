@@ -1,7 +1,7 @@
 ---
 id: Y9zzCk1MqAxxR4gvuttIJ
 title: jì
-desc: '记 to remember'
+desc: 记 to remember
 updated: 1635657206111
 created: 1635078839843
 ---

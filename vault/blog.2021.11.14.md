@@ -1,6 +1,6 @@
 ---
 id: fkpnGvUtpyPVG8iZL64J9
-title: 'First Snow'
+title: First Snow
 desc: ''
 updated: 1637201739871
 created: 1636902503166

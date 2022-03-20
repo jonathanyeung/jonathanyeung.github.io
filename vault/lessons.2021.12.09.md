@@ -1,6 +1,6 @@
 ---
 id: isMcQMTAvTb2IalSgg1a9
-title: 2021-12-09
+title: '2021-12-09T00:00:00.000Z'
 desc: ''
 updated: 1639927621142
 created: 1639015617127
@@ -71,7 +71,7 @@ meaning - definitely
 
 参 - by itself, it means to want
 
-### 了解 liǎo jiě
+### 了解 ![[Lululemon|lululemon]] jiě
 1. to learn
 1. to know someone very well (wo ren shi ta, dan shi wo bu liao jie ta).
 1. to know about a certain thing or situation.

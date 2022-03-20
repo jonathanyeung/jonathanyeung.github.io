@@ -1,7 +1,7 @@
 ---
 id: QLOVimCViPo6tOMaOI6ES
 title: jin1
-desc: '巾 jīn - scarf'
+desc: 巾 jīn - scarf
 updated: 1642952679229
 created: 1639971146228
 ---

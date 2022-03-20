@@ -1,7 +1,7 @@
 ---
 id: TJ3Npm1C4kAeguifF6rel
 title: Radicals
-desc: '100 Most Common Radicals'
+desc: 100 Most Common Radicals
 updated: 1642952904860
 created: 1634483802379
 ---
@@ -91,7 +91,7 @@ created: 1634483802379
 | 皮          | 皮           |           | skin                  | pi2        | 披彼波破疲    |                                                                                                                               | 皮字旁                   |
 | 耳          | 耳           |           | ear                   | er3        | 取闻职聪联    |                                                                                                                               | 耳字旁                   |
 | 辛          | 辛           |           | bitter                | xin1       | 辜辟辣辨辩    |                                                                                                                               | 辛字旁                   |
-| 阝right     | 阝right      | 邑         | city                  | (yi4)      | 那邦部都邮    | Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.     | 双耳刀（右耳刀）              |
+| 阝right     | 阝right      | 邑         | city                  | (yi4)      | 那邦部都邮    | [[Yi4|characters.radicals.yi4]] Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.     | 双耳刀（右耳刀）              |
 | 酉          | 酉           |           | wine                  | (you3)     | 醉酒醒酸尊    |                                                                                                                               | 酉字旁                   |
 | 青          | 青           |           | green/blue            | qing1      | 请清情晴猜    |                                                                                                                               | 青字旁                   |
 | 鸟          | 鳥           |           | bird                  | niao3      | 鸦鸣鸭岛鸡    |                                                                                                                               | 鸟字旁                   |
