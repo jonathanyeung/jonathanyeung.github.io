@@ -1,7 +1,7 @@
 ---
 id: mv2p1zbtljj0dj6jdvs67eq
 title: yì
-desc: '阝yì'
+desc: 阝yì
 updated: 1647184009725
 created: 1647184009725
 ---

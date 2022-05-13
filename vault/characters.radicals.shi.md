@@ -1,7 +1,7 @@
 ---
 id: zyRX5qsuwddqrsfyGyryX
 title: shí
-desc: 饣 shí
+desc: 饣 - eat, food
 updated: 1635331399756
 created: 1635089345049
 ---

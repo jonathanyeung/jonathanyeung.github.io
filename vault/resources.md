@@ -35,3 +35,7 @@ Type the keyboard shortcut, then the vowel
 For writing help and style
 
 https://fonts.google.com/?subset=chinese-simplified
+
+### Reading
+
+https://www.thechairmansbao.com/

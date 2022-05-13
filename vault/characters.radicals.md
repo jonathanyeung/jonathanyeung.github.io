@@ -2,7 +2,7 @@
 id: TJ3Npm1C4kAeguifF6rel
 title: Radicals
 desc: 100 Most Common Radicals
-updated: 1642952904860
+updated: 1649296893812
 created: 1634483802379
 ---
 
@@ -33,7 +33,7 @@ created: 1634483802379
 | 力          | 力           |           | power, force          | lì         | 力加助勉男    | Note similarity with 刀, which means knife.                                                                                    | 力字旁                   |
 | 又          | 又           |           | right hand            | yoù        | 反取受左友    |                                                                                                                               | 又字旁                   |
 | 犭          | 犭           | 犬         | dog                   | quǎn       | 犯狂狗献猪    | Note similarity with 大, which means big.                                                                                      | 反犬旁（犭），犬字旁（犬）         |
-| 禾          | 禾           |           | grain                 | (he)       | 利私季和香    | Note similarity with 木, which means tree.                                                                                     | 禾木旁                   |
+| 禾          | 禾           |           | grain                 | (he)       | 利私季和香    | Note similarity with 木, which means #todo tree.                                                                                     | 禾木旁                   |
 | ⺮          | ⺮           | 竹         | bamboo                | zhu2       | 笑第简筷算    | #todo                                                                                                                         | 竹子头（竹字头）              |
 | 虫          | 虫           |           | insect                | chong2     | 強独蛇蛋蚊    | Even though this radical means insect, it's used for many organisms which aren't insects according to our taxonomy.           | 虫字旁                   |
 | 阜          | 阝left       |           | mound, dam            | (fu4)      | 防阻陆院陈    | Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.     | 双耳刀（左耳刀）              |
