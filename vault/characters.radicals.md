@@ -2,7 +2,7 @@
 id: TJ3Npm1C4kAeguifF6rel
 title: Radicals
 desc: 100 Most Common Radicals
-updated: 1649296893812
+updated: 1658632349403
 created: 1634483802379
 ---
 
@@ -76,7 +76,7 @@ created: 1634483802379
 | 皿          | 皿           |           | dish                  | (min3)     | 盆监盟盛盖    |                                                                                                                               | 皿字底                   |
 | 礻          | 礻           | 示         | sign, spirit, show    | shi4       | 社神视祝祥    | Note similarity with 衤, which means clothes.                                                                                  | 示字旁                   |
 | 穴          | 穴           |           | cave                  | xue4       | 空突穷究窗    |                                                                                                                               | 穴宝盖                   |
-| 走          | 走           |           | run, walk             | zou3       | 起超越赶徒    |                                                                                                                               | 走字旁                   |
+| 走          | 走           |           | run, walk             | zou3       | 起超越赶徒    | [[zǒu|characters.radicals.zou]]                                                                                               | 走字旁                   |
 | 雨          | 雨           |           | rain                  | yu3        | 雷雪霜需露    |                                                                                                                               | 雨字头                   |
 | 囗          | 囗           |           | enclosure             | (wei2)     | 回国因图团    | Note similarity with 口, which does not enclose other components and means mouth.                                              | 国字框                   |
 | 小          | 小           | ⺌⺍        | small                 | xiao3      | 少肖尚尖尘    |                                                                                                                               | 小字旁（头）                |
