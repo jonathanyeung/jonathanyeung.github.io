@@ -34,6 +34,7 @@ workspace:
         addBehavior: asOwnDomain
     graph:
         zoomSpeed: 1
+        createStub: false
     enableAutoCreateOnDefinition: false
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
@@ -64,7 +65,19 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
+        taskCompleteStatus:
+            - done
+            - x
     enableEditorDecorations: true
+    enableHandlebarTemplates: false
+    enableFullHierarchyNoteTitle: false
+    templateHierarchy: template
+    hooks:
+        onCreate:
+            -
+                id: test-hook
+                pattern: '*'
+                type: js
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -108,3 +121,4 @@ publishing:
         editRepository: https://github.com/jonathanyeung/jonathanyeung.github.io
     enablePrettyLinks: true
     theme: custom
+    enableTaskNotes: true
