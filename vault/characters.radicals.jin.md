@@ -1,8 +1,8 @@
 ---
 id: IxGOuUV1RHVzdcfJa3xCI
-title: jīn
+title: jīn (斤)
 desc: 斤 jīn
-updated: 1635331377768
+updated: 1658672011730
 created: 1635082447991
 ---
 

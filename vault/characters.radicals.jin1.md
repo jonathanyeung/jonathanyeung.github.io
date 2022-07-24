@@ -1,8 +1,8 @@
 ---
 id: QLOVimCViPo6tOMaOI6ES
-title: jin1
+title: jin (巾)
 desc: 巾 jīn - scarf
-updated: 1642952679229
+updated: 1658672023648
 created: 1639971146228
 ---
 ## 巾 

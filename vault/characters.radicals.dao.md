@@ -1,16 +1,16 @@
 ---
 id: dtjx8mmkarbx0j6avfdajrn
-title: Dao
-desc: ''
-updated: 1648436858733
+title: dāo
+desc: '刀 - knife'
+updated: 1658671980704
 created: 1648436858733
 ---
 
-刀 knife
+## 刀 knife
 
-on the side is different from on top
+On the side is different from on top:
 
-on top: 
+On top: 
 - 色 sè - hue
 - 角 jiǎo - horn
 
@@ -20,17 +20,14 @@ on side:
 full form:
 - 分
 
-## 
-
-Traditional Form: 
 
 ## Meaning
 
-- 
+- knife
 
 ## pīnyīn
 
-- 
+- dāo
 
 ## Examples
 
