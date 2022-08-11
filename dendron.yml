@@ -19,6 +19,7 @@ commands:
         enableMarker: false
     randomNote: {}
     copyNoteLink: {}
+    templateHierarchy: template
 workspace:
     vaults:
         -
@@ -69,15 +70,11 @@ workspace:
             - done
             - x
     enableEditorDecorations: true
-    enableHandlebarTemplates: false
     enableFullHierarchyNoteTitle: false
     templateHierarchy: template
     hooks:
-        onCreate:
-            -
-                id: test-hook
-                pattern: '*'
-                type: js
+        onCreate: []
+    enableSmartRefs: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
