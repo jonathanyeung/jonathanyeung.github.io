@@ -2,7 +2,7 @@
 id: gyww6vegicgdzcxb0dqswn6
 title: '2022-07-18'
 desc: ''
-updated: 1658668624068
+updated: 1659797438713
 created: 1657979294692
 traitIds:
   - chinese-lessons
@@ -74,6 +74,9 @@ _Homework Sentences:_
 1. 王老师不仅喜欢电影，也常常听音乐。
 1. 他不仅喜欢跑步，还喜欢游泳。
 1. 不仅我会做中国菜，而且他也做中国菜。
+1. 他不仅能吃很多，他还可以喝很多酒都没醉。
+1. 我的爷爷不仅身体健康，而且脑很聪明。
+1. 不仅你生气，我们也不高兴。
 
 ### Section 2:
 
