@@ -23,7 +23,7 @@ _These are taught in Chinese physical education._
 
 ## Vocabulary
 
-准 character etymology (准备 zhǔn bèi)
+### 准 character etymology (准备 zhǔn bèi)
 
 准 by itself means 'accurate'
 - 准时 zhǔn shí - on time

@@ -75,11 +75,9 @@ workspace:
     templateHierarchy: template
     hooks:
         onCreate: []
-    enableSmartRefs: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
@@ -88,7 +86,6 @@ preview:
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
@@ -120,3 +117,4 @@ publishing:
     enablePrettyLinks: true
     theme: custom
     enableTaskNotes: true
+    searchMode: lookup
