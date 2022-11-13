@@ -2,7 +2,7 @@
 id: 7sm5tel67h26jxkr6ijktxt
 title: Building a Bike
 desc: ''
-updated: 1668327828978
+updated: 1668328879777
 created: 1668002739004
 ---
 
@@ -14,9 +14,9 @@ But the riding experience is usually abysmal. I've actually learned a few things
 
 Meanwhile, I stumbled across a few manufacturers in China that build custom bike frames. Their main customers are bespoke bike brands - not your Treks, Giants, but companies that might make on the order of thousands of bikes a year. They also make custom frames for individual customers at prices that are a fraction of name brands. This piqued my interest in building my own bike. It would be a unique challenge - not only from the perspective of designing a frame and building it up, but also from needing to navigate the various shopping channels in China to procure all of the parts needed.
 
-I reached out to one such manufacturer based in Xi'an that specialized in making titanium frames. I sent over a few design sketches, but after a few back-and-forths, I quickly realized how woefully ignorant I was about bike components and frame design.  But they were very patient and helpful, and after landing on a design, they began building the frame for me.
+I reached out to one such manufacturer based in Xi'an that specialized in making titanium frames. I sent over a few design sketches, but after a few back-and-forths, I quickly realized how woefully ignorant I was about bike components and frame design. But they were very patient and helpful, and after landing on a design, they began building the frame for me.
 
-In the meantime, I started to try to procure parts. My main avenue was TaoBao, which is the Chinese equivalent of Amazon.  Most of the parts could be found there, but the main challenge was trying to learn how to use TaoBao effectively and figuring out the correct search terms. Quite a lot of bike parts are very specific, so it took trial and error to figure out how to find what I needed.  How does one find a 'BB68 Bottom Bracket'?  Turns out, it's by searching '自行车中轴'.  How about a 'Shimano Alfine Vertical Dropout No Turn Washer'? Well, I still don't know the correct term for that.  But I learned that TaoBao has an image search function that works surprisingly well!
+In the meantime, I started to try to procure parts. My main avenue was TaoBao, which is the Chinese equivalent of Amazon. Most of the parts could be found there, but the main challenge was trying to learn how to use TaoBao effectively and figuring out the correct search terms. Quite a lot of bike parts are very specific, so it took trial and error to figure out how to find what I needed. How does one find a 'BB68 Bottom Bracket'?  Turns out, it's by searching '自行车中轴'. How about a 'Shimano Alfine Vertical Dropout No Turn Washer'? Well, I still don't know the correct term for that. But I learned that TaoBao has an image search function that works surprisingly well!
 
 I certainly made some mistakes. I had to return a front fork because I had accidentally bought the wrong length. At first I thought they had sent me the wrong variation on the part, but their customer service rep kindly told me that it said clearly in bold letters on the front page of the product description that all the variations were the same length. Oops. Fortunately they accepted returns.
 
@@ -40,9 +40,22 @@ After a month of shopping and a lot of package deliveries, I procured all the pa
 一个月以后，所有东西都送到了，而且单车架也做好了。他们做的质量真的很好，我很满意!车架不仅轻而且很结实。我很开心我做了这件事。尽管不容易(也不太便宜)，但是我学了很多关于购物的汉语和自行车的知识。
 现在，我又喜欢骑自行车了。
 
+## pīnyīn
+
+Jí shǐ xiàn zài gòng xiǎng dān chē méi yǒu 2018 nián nà me liú xíng, dàn shì gòng xiǎng dān chē hái shì yí gè hěn fāng biàn de jiāo tōng gōng jù. Shǒu xiān, nǐ kě yǐ hěn róng yì zhǎo dào yì liàng chē. Yīn wéi mǎ lù liǎng biān dū tíng le hěn duō。 qí cì, kě yǐ zài rèn hé dì fāng tíng chē, shì tǐng fāng biàn de. Zuì hòu, zū fèi yě hěn pián yi.
+
+Dàn shì, gòng xiǎng dān chē de zhì liàng cháng cháng shì tè bié dé bù hǎo. Qí shí, yīn wéi wǒ yòng gòng xiǎng dān chē de shí hou yù dào le hěn duō wèn tí, yě ràng wǒ jī lěi le hěn duō guān yú dān chē de zhī shi. Dàn shì, wǒ fā xiàn wǒ yuè lái yuè bù xǐ huan qí zì xíng chē le。
+
+Tóng shí, wǒ zhǎo dào le jǐ gè kě yǐ zuò zì xíng chē jià de gōng chǎng, tā men de gù kè píng shí shì dān chē gōng sī, tā men yě kě yǐ yǒu sī rén dìng zhì. kàn dào zhè zhǒng gōng sī wǒ jiù jué de kě yǐ shì zhe zì jǐ zuò yī gè zì xíng chē. Wǒ jué de zhè ge shì er zhí děi zuò yǒu liǎng gè yuán yīn. Shǒu xiān, wǒ kě yǐ xué xué zì xíng chē shì zěn me zuò de. Qí cì, wǒ yě kě yǐ xué xué zài zhōng guó zěn me zài wǎng shàng mǎi dōng xī. Yǒu jǐ gè gōng chǎng kě yǐ zuò dān chē, qí zhōng yǒu yí gè zhuān mén zuò tài de chē jià. Wǒ lián xì tā men, tā men de shè jì shī néng bāng wǒ shè ji hé zuò yī gè zì xíng chē jià. Tā men shuō yí gè yuè jiù kě yǐ zuò hǎo.
+
+Tóng shí, wǒ kāi shǐ zì jǐ zài táo bǎo hé xián yú shàng mǎi líng jiàn. Suī rán zài táo bǎo hé xián yú shàng shén me dōu kě yǐ mǎi dé dào, dàn shì duì wǒ lái shuō zhǎo dào wǒ yào de dōng xī bù róng yì. Wǒ bù jǐn bú tài zhī dào zěn me yòng táo bǎo, ér qiě wǒ yě bú tài zhī dào yìng gāi yòng shén me zì lái sōu suǒ.
+Lì rú, rú guǒ wǒ xiǎng mǎi yí gè ‘BB68 Bottom Bracket’ wǒ yīng gāi sōu suǒ shén me ? wǒ xué le shì ‘ zì xíng chē zhōng zhóu ’。‘Shimano Alfine Vertical Dropout No Turn Washer’ ne ? qí shí dào xiàn zài wǒ yě bù zhī dào, dàn shì wǒ fā xiàn kě yǐ yòng zhào piàn lái sōu suǒ, shì hěn fāng biàn de ! dāng rán wǒ fàn le cuò wù. wǒ mǎi cuò le yí gè qián chā - cháng dù tài duǎn. Běn lái wǒ yǐ wéi tā men bǎ huò jì cuò le, qí shí shì yīn wèi wǒ kàn bù dǒng zhè ge chǎn pǐn de miáo shù. Xìng yùn de shì, wǒ kě yǐ miǎn fèi huàn yí gè duì de qián chā.
+
+Yì gè yuè yǐ hòu, suǒ yǒu dōng xī dū sòng dào le, ér qiě dān chē jià yě zuò hǎo le. Tā men zuò de zhì liàng zhēn de hěn hǎo, wǒ hěn mǎn yì ! Chē jià bù jǐn qīng ér qiě hěn jiē shi. Wǒ hěn kāi xīn wǒ zuò le zhè jiàn shì. Jǐn guǎn bù róng yì ( yě bù tài biàn yí )， dàn shì wǒ xué le hěn duō guān yú gòu wù de hàn yǔ hé zì xíng chē de zhī shi.
+ xiàn zài, wǒ yòu xǐ huan qí zì xíng chē le。
 --- 
 
-## Vocabulary
+### Vocabulary
 
 - 共享单车 - gòng xiǎng dān chē - Shared bikes
 - 交通工具 jiāo tōng gōng jù - vehicle
@@ -55,7 +68,8 @@ After a month of shopping and a lot of package deliveries, I procured all the pa
 - 幸运 xìng yùn - fortunate
 - 结实的 jiē shi de - Sturdy
 
-## Corrections 
+### Corrections 
+
 | Original             | Corrected                    |
 | -------------------- | ---------------------------- |
 | 可以任何**停车是挺方便**       | 可以在**任何地方停车**                |
@@ -68,7 +82,7 @@ After a month of shopping and a lot of package deliveries, I procured all the pa
 | 我很开心我做了这个**活动**      | 我很开心我做了这**件事**               |
 | **然后**，我**再**喜欢骑自行车。 | **现在**，我**又**喜欢骑自行车了。        |
 
-## Original
+### Original
 
 即使现在共享单车没有没有比2018年怎么流行，但是共享单车还是一个很方便的交通工具。 首先，找车是很容易，每个路边都有很多。其次，可以任何停车是挺方便。最后，租费也很便宜。
 
@@ -83,4 +97,3 @@ After a month of shopping and a lot of package deliveries, I procured all the pa
 当然我犯了错误。我买错了一个前叉-长度太短。本来我以为他们寄错给我的货，其实是我看不懂这个产品描述。幸运，我可以免费换一个对的前叉。
 
 一个月以后，所有东西都送到而且单车架也做好了。他们做了质量真的很好，我很满意！车架不仅轻而且很结实的。我很开心我做了这个活动。尽管不容易（也不太便宜），我学了很多购物的汉语和自行车的知识。然后，我再喜欢骑自行车。
-
