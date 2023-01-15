@@ -1,8 +1,8 @@
 ---
 id: 7sm5tel67h26jxkr6ijktxt
 title: Building a Bike
-desc: ''
-updated: 1668328879777
+desc: ""
+updated: 1668650499235
 created: 1668002739004
 ---
 
@@ -16,7 +16,7 @@ Meanwhile, I stumbled across a few manufacturers in China that build custom bike
 
 I reached out to one such manufacturer based in Xi'an that specialized in making titanium frames. I sent over a few design sketches, but after a few back-and-forths, I quickly realized how woefully ignorant I was about bike components and frame design. But they were very patient and helpful, and after landing on a design, they began building the frame for me.
 
-In the meantime, I started to try to procure parts. My main avenue was TaoBao, which is the Chinese equivalent of Amazon. Most of the parts could be found there, but the main challenge was trying to learn how to use TaoBao effectively and figuring out the correct search terms. Quite a lot of bike parts are very specific, so it took trial and error to figure out how to find what I needed. How does one find a 'BB68 Bottom Bracket'?  Turns out, it's by searching '自行车中轴'. How about a 'Shimano Alfine Vertical Dropout No Turn Washer'? Well, I still don't know the correct term for that. But I learned that TaoBao has an image search function that works surprisingly well!
+In the meantime, I started to try to procure parts. My main avenue was TaoBao, which is the Chinese equivalent of Amazon. Most of the parts could be found there, but the main challenge was trying to learn how to use TaoBao effectively and figuring out the correct search terms. Quite a lot of bike parts are very specific, so it took trial and error to figure out how to find what I needed. How does one find a 'BB68 Bottom Bracket'? Turns out, it's by searching '自行车中轴'. How about a 'Shimano Alfine Vertical Dropout No Turn Washer'? Well, I still don't know the correct term for that. But I learned that TaoBao has an image search function that works surprisingly well!
 
 I certainly made some mistakes. I had to return a front fork because I had accidentally bought the wrong length. At first I thought they had sent me the wrong variation on the part, but their customer service rep kindly told me that it said clearly in bold letters on the front page of the product description that all the variations were the same length. Oops. Fortunately they accepted returns.
 
@@ -24,7 +24,7 @@ After a month of shopping and a lot of package deliveries, I procured all the pa
 
 ## 汉字
 
-即使现在共享单车没有2018年那么流行，但是共享单车还是一个很方便的交通工具。首先，你可以很容易找到一辆车。因为马路两边都停了很多。其次，可以在任何地方停车，是挺方便的。最后，租费也很便宜。
+即使现在共享单车没有 2018 年那么流行，但是共享单车还是一个很方便的交通工具。首先，你可以很容易找到一辆车。因为马路两边都停了很多。其次，可以在任何地方停车，是挺方便的。最后，租费也很便宜。
 
 但是，共享单车的质量常常是特别得不好。其实，因为我用共享单车的时候遇到了很多问题，也让我积累了很多关于单车的知识。但是，我发现我越来越不喜欢骑自行车了。
 
@@ -42,18 +42,19 @@ After a month of shopping and a lot of package deliveries, I procured all the pa
 
 ## pīnyīn
 
-Jí shǐ xiàn zài gòng xiǎng dān chē méi yǒu 2018 nián nà me liú xíng, dàn shì gòng xiǎng dān chē hái shì yí gè hěn fāng biàn de jiāo tōng gōng jù. Shǒu xiān, nǐ kě yǐ hěn róng yì zhǎo dào yì liàng chē. Yīn wéi mǎ lù liǎng biān dū tíng le hěn duō。 qí cì, kě yǐ zài rèn hé dì fāng tíng chē, shì tǐng fāng biàn de. Zuì hòu, zū fèi yě hěn pián yi.
+Jí shǐ xiàn zài gòng xiǎng dān chē méi yǒu 2018 nián nà me liú xíng, dàn shì gòng xiǎng dān chē hái shì yí gè hěn fāng biàn de jiāo tōng gōng jù. Shǒu xiān, nǐ kě yǐ hěn róng yì zhǎo dào yì liàng chē. Yīn wéi mǎ lù liǎng biān dū tíng le hěn duō. Qí cì, kě yǐ zài rèn hé dì fāng tíng chē, shì tǐng fāng biàn de. Zuì hòu, zū fèi yě hěn pián yi.
 
 Dàn shì, gòng xiǎng dān chē de zhì liàng cháng cháng shì tè bié dé bù hǎo. Qí shí, yīn wéi wǒ yòng gòng xiǎng dān chē de shí hou yù dào le hěn duō wèn tí, yě ràng wǒ jī lěi le hěn duō guān yú dān chē de zhī shi. Dàn shì, wǒ fā xiàn wǒ yuè lái yuè bù xǐ huan qí zì xíng chē le。
 
 Tóng shí, wǒ zhǎo dào le jǐ gè kě yǐ zuò zì xíng chē jià de gōng chǎng, tā men de gù kè píng shí shì dān chē gōng sī, tā men yě kě yǐ yǒu sī rén dìng zhì. kàn dào zhè zhǒng gōng sī wǒ jiù jué de kě yǐ shì zhe zì jǐ zuò yī gè zì xíng chē. Wǒ jué de zhè ge shì er zhí děi zuò yǒu liǎng gè yuán yīn. Shǒu xiān, wǒ kě yǐ xué xué zì xíng chē shì zěn me zuò de. Qí cì, wǒ yě kě yǐ xué xué zài zhōng guó zěn me zài wǎng shàng mǎi dōng xī. Yǒu jǐ gè gōng chǎng kě yǐ zuò dān chē, qí zhōng yǒu yí gè zhuān mén zuò tài de chē jià. Wǒ lián xì tā men, tā men de shè jì shī néng bāng wǒ shè ji hé zuò yī gè zì xíng chē jià. Tā men shuō yí gè yuè jiù kě yǐ zuò hǎo.
 
 Tóng shí, wǒ kāi shǐ zì jǐ zài táo bǎo hé xián yú shàng mǎi líng jiàn. Suī rán zài táo bǎo hé xián yú shàng shén me dōu kě yǐ mǎi dé dào, dàn shì duì wǒ lái shuō zhǎo dào wǒ yào de dōng xī bù róng yì. Wǒ bù jǐn bú tài zhī dào zěn me yòng táo bǎo, ér qiě wǒ yě bú tài zhī dào yìng gāi yòng shén me zì lái sōu suǒ.
-Lì rú, rú guǒ wǒ xiǎng mǎi yí gè ‘BB68 Bottom Bracket’ wǒ yīng gāi sōu suǒ shén me ? wǒ xué le shì ‘ zì xíng chē zhōng zhóu ’。‘Shimano Alfine Vertical Dropout No Turn Washer’ ne ? qí shí dào xiàn zài wǒ yě bù zhī dào, dàn shì wǒ fā xiàn kě yǐ yòng zhào piàn lái sōu suǒ, shì hěn fāng biàn de ! dāng rán wǒ fàn le cuò wù. wǒ mǎi cuò le yí gè qián chā - cháng dù tài duǎn. Běn lái wǒ yǐ wéi tā men bǎ huò jì cuò le, qí shí shì yīn wèi wǒ kàn bù dǒng zhè ge chǎn pǐn de miáo shù. Xìng yùn de shì, wǒ kě yǐ miǎn fèi huàn yí gè duì de qián chā.
+Lì rú, rú guǒ wǒ xiǎng mǎi yí gè ‘BB68 Bottom Bracket’ wǒ yīng gāi sōu suǒ shén me ? wǒ xué le shì ‘ zì xíng chē zhōng zhóu ’. ‘Shimano Alfine Vertical Dropout No Turn Washer’ ne ? qí shí dào xiàn zài wǒ yě bù zhī dào, dàn shì wǒ fā xiàn kě yǐ yòng zhào piàn lái sōu suǒ, shì hěn fāng biàn de ! dāng rán wǒ fàn le cuò wù. wǒ mǎi cuò le yí gè qián chā - cháng dù tài duǎn. Běn lái wǒ yǐ wéi tā men bǎ huò jì cuò le, qí shí shì yīn wèi wǒ kàn bù dǒng zhè ge chǎn pǐn de miáo shù. Xìng yùn de shì, wǒ kě yǐ miǎn fèi huàn yí gè duì de qián chā.
 
 Yì gè yuè yǐ hòu, suǒ yǒu dōng xī dū sòng dào le, ér qiě dān chē jià yě zuò hǎo le. Tā men zuò de zhì liàng zhēn de hěn hǎo, wǒ hěn mǎn yì ! Chē jià bù jǐn qīng ér qiě hěn jiē shi. Wǒ hěn kāi xīn wǒ zuò le zhè jiàn shì. Jǐn guǎn bù róng yì ( yě bù tài biàn yí )， dàn shì wǒ xué le hěn duō guān yú gòu wù de hàn yǔ hé zì xíng chē de zhī shi.
- xiàn zài, wǒ yòu xǐ huan qí zì xíng chē le。
---- 
+xiàn zài, wǒ yòu xǐ huan qí zì xíng chē le。
+
+---
 
 ### Vocabulary
 
@@ -68,23 +69,25 @@ Yì gè yuè yǐ hòu, suǒ yǒu dōng xī dū sòng dào le, ér qiě dān chē
 - 幸运 xìng yùn - fortunate
 - 结实的 jiē shi de - Sturdy
 
-### Corrections 
+### Corrections
 
-| Original             | Corrected                    |
-| -------------------- | ---------------------------- |
-| 可以任何**停车是挺方便**       | 可以在**任何地方停车**                |
-| **平时**是特别不好          | **常常**是特别得不好                 |
-| 我积累了很多单车的知识          | 我积累了很多**关于**单车的知识            |
-| 我找到几个工厂做自行车架         | 我找到**了**几个**可以做**自行车架**的**工厂 |
-| 他们也可以定制              | 他们也可以有**私人**定制               |
-| 本来我以为他们**寄错给我的货**    | 本来我以为他们**把货寄错了**             |
-| 幸运                   | 幸运**的是**                     |
-| 我很开心我做了这个**活动**      | 我很开心我做了这**件事**               |
-| **然后**，我**再**喜欢骑自行车。 | **现在**，我**又**喜欢骑自行车了。        |
+| Original                             | Corrected                                                                                                                        |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 可以任何**停车是挺方便**             | 可以在**任何地方停车**. 任何 needs to be followed by a noun.                                                                     |
+| **平时**是特别不好                   | **常常**是特别**得**不好 . Use 常常 for a current situation, whereas 平时 for general times (平时我不喝咖啡). 我平时常常喝咖啡。 |
+| 我就觉得值得试                       | 我就觉得值得**试试**                                                                                                             |
+| 我觉得这个活动值得做**为了**两个原因 | 我觉得这个活动值得做**因为**两个原因                                                                                             |
+| 我积累了很多单车的知识               | 我积累了很多**关于**单车的知识                                                                                                   |
+| 我找到几个工厂做自行车架             | 我找到**了**几个**可以做**自行车架**的**工厂                                                                                     |
+| 他们也可以定制                       | 他们也可以有**私人**定制                                                                                                         |
+| 本来我以为他们**寄错给我的货**       | 本来我以为他们**把货寄错了**                                                                                                     |
+| 幸运                                 | 幸运**的是**                                                                                                                     |
+| 我很开心我做了这个**活动**           | 我很开心我做了这**件事**                                                                                                         |
+| **然后**，我**再**喜欢骑自行车。     | **现在**，我**又**喜欢骑自行车了。                                                                                               |
 
 ### Original
 
-即使现在共享单车没有没有比2018年怎么流行，但是共享单车还是一个很方便的交通工具。 首先，找车是很容易，每个路边都有很多。其次，可以任何停车是挺方便。最后，租费也很便宜。
+即使现在共享单车没有没有比 2018 年怎么流行，但是共享单车还是一个很方便的交通工具。 首先，找车是很容易，每个路边都有很多。其次，可以任何停车是挺方便。最后，租费也很便宜。
 
 但是，共享单车的质量平时是特别不好。其实，因为我用共享单车的时候我遇到很多问题，我积累了很多单车的知识。但是，我发现我越来越不喜欢骑自行车。
 
