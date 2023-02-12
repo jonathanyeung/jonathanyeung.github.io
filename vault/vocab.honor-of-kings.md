@@ -11,7 +11,6 @@ created: 1668913144242
 ## General
 
 - 王者荣耀 wáng zhě róng yào
-- yì jì néng - One skill
 - 英雄 yīng xióng - hero
 - fa qi - pick up stuff (freebies)
 - 背包 bèi bāo - knapsack
@@ -74,3 +73,7 @@ In the UI:
 ## Links
 
 https://pvp.qq.com/web201605/herolist.shtml
+
+---
+
+Gameplay tips: https://youtu.be/S1Mgm-6cTVA?t=446
