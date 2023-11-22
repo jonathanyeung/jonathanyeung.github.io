@@ -2,7 +2,7 @@
 id: efz5zx6nbp6ok1eqymlpdko
 title: '2023-11-13'
 desc: ''
-updated: 1699934083738
+updated: 1700102564597
 created: 1699767681710
 ---
 
@@ -60,15 +60,15 @@ In China, sailing is not very popular right now. The price of a sailboat is very
 
 果我是翟峰，我不会这么做。
 
-当然，我能理解为什么他不想一辈子做一个工作。如果他不想干活儿一会儿或者去一个新地方住一段时间，我也支持这个意见。
+当然，我能理解为什么他不想一辈子做一个工作。如果他不想干活儿~~一会儿~~ （休息一点儿时间）或者去一个新地方住一段时间，我也支持这个意见。 
 
 但是，对翟峰的打算来买一艘帆船，我觉得有几个问题：
 
-首先，买帆船之前，他都完全没试过航行。有机会他们一开航就会发现其实他们不喜欢帆船。那怎么办？ 已经卖了房子和辞职了工作，他们不能回去。
+首先，买帆船之前，他都完全没试过航行。有机会他们一开航就会发现其实他们不喜欢帆船。那怎么办？ 已经卖了房子和辞职了工作，他们不能~~回去~~h（回头）
 
-然后，如果他们要卖房子才能买帆船，对我来说他们不够钱来怎么做。
+~~然后~~（ci tsi)，如果他们要卖房子才能买帆船，对我来说他们不够钱来怎么做。
 
-最后，我觉得住在海上对他们的孩子不好。她不能去学校读书，也没有朋友跟她玩儿。百分之百她不喜欢在搜帆船上生活。
+最后，我觉得住在海上对他们的孩子不好。她不能去学校读书，也没有朋友跟她玩儿。她百分之百不喜欢在(一）搜帆船上生活。
 
 If I were Zhai Feng, I wouldn't do this.
 
@@ -81,3 +81,4 @@ First of all, he had never tried sailing before buying a sailboat. Chances are, 
 And then, if they have to sell their house to buy a sailboat, for me they don't have enough money to do it.
 
 In the end, I feel that living at sea is not good for their children. She couldn't go to school, and she didn't have any friends to play with. 100% she doesn't like to live on a schooner.
+
