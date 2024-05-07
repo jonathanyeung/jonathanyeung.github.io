@@ -2,7 +2,7 @@
 id: jBxlIY05cSIcZJbifvDzL
 title: Formation
 desc: ''
-updated: 1646880011197
+updated: 1715073995047
 created: 1634996400513
 ---
 
@@ -17,7 +17,7 @@ The character originated as a picture of an actual object., such as 日 or 羊, 
 There are two types:
 
 1. The first is a character that is an arbitrary creation used to depict an abstract concept, such as 上 (above) and 下 (below) or 一, 二, 三.
-1. The second type uses a combination of a picture and indicator mark to point to the area being defined, such as 本(root)，which is a picture of a tree with an indicator marking the area where the root is.
+2. The second type uses a combination of a picture and indicator mark to point to the area being defined, such as 本(root)，which is a picture of a tree with an indicator marking the area where the root is.
 
 ### Associative Compound
 
@@ -34,7 +34,6 @@ Infrequently encountered:
 #### Mutually Explanatory
 
 This category is rarely used because there is no consensus as to what characters belong here as the author of the term did not clearly define it.
-
 
 #### Phonetic Loan
 

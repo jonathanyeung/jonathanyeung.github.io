@@ -2,10 +2,9 @@
 id: X9i6HckFgvkUQ0jaz25Gj
 title: Lessons
 desc: ''
-updated: 1633192928533
+updated: 1712328108001
 created: 1630837564983
 ---
-
 
 ## Language Schools 
 
@@ -17,21 +16,23 @@ created: 1630837564983
     - Jianguo Rd. 88, Xiandai SOHO, Building B, 504
 - [Beijing University Tutor](https://beijing.universitytutor.com/beijing_mandarin-chinese-tutoring)
 
-
 ### Live the Language
 
 Potential Schedule 2 Times a Week 
+
 Monday? Thursday? 1.5 hours each
 
 Questions: Assessment?
 
 Goals:
+
 1. Being able to understand daily conversation (not news level)
 2. Being able to do basic engagements - Restaurant; Didi; 
 3. Being able to engage in a conversation with friends
 4. Basic Reading - Food Menus / WeChat / Alipay / Meituan / TaoBao
 
 Non Goals:
+
 1. Business
 2. Learning to Write
 
